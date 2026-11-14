@@ -1,0 +1,17 @@
+{
+  "prefixes": {
+    "TOY": {
+      "date": "2024-03-20",
+      "status": "verified"
+    },
+    "MIS": {
+      "date": "2024-05-15",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "TOY": "https://hearthstone.blizzard.com/ko-kr/news/24064735",
+    "MIS": "https://hearthstone.blizzard.com/ko-kr/news/24077478"
+  }
+}
