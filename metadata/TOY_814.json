@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_814",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "인생은 병사로 가득한 통과 같습니다. 어떤 추가 효과가 나올지 아무도 모르죠.",
+        "portrait": "HS31-090_M.tif:17ba80f67ec04efeb903eb3bd1a07c35",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 103641
+          },
+          {
+            "id": 2934,
+            "name": "추가 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_814.png"
+      }
+    }
+  }
+}

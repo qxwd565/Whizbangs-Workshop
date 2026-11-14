@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_353",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "\"앞으로 너는 미샤, 넌 킁킁이야. 그리고 너는 남은 걔고.\"",
+        "portrait": "HS31-031_S.tif:22f4686825ea4165a0699270a09424a8",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_353.png"
+      }
+    }
+  }
+}

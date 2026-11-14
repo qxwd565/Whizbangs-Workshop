@@ -10,58 +10,7 @@
     "cost": 4,
     "text": "<b>죽음의 메아리:</b><br></br>악마를 뽑습니다.<br></br>그 악마의 비용이 (2) 감소합니다.",
     "attack": 3,
-    "health": 0,
     "durability": 2,
-    "armor": 0,
-    "flavor": "반칙 선언! 지옥 공입니다!",
-    "spellSchool": "",
-    "portrait": "HS31-138_W.tif:d2b52ffc08da47308d4bdf3b6d3a9d39",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_641.png"
+    "classes": []
   }
 }

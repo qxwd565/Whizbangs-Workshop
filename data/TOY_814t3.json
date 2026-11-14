@@ -10,54 +10,10 @@
     "text": "<b>속공</b>",
     "attack": 1,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-093_M.tif:998e41b715f74b4ca65b256e6615e552",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      }
-    ],
     "races": [
       "DRAENEI"
     ],
     "race": "드레나이",
-    "classes": [],
-    "art": "art/TOY_814t3.png"
+    "classes": []
   }
 }

@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_670",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "\"아하하핳핳핳핳킄킄ㅋ킄ㅋ킄\" -장난감을 만드는 나",
+        "portrait": "HS31-077_M.tif:afab666ce82f401e830be033b61ff09b",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 69718
+          }
+        ],
+        "art": "art/TOY_670.png"
+      }
+    }
+  }
+}

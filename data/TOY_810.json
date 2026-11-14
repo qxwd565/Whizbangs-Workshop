@@ -10,63 +10,7 @@
     "cost": 4,
     "text": "<b>생명력 흡수</b><br></br>내 영웅이 공격한 후에,<br></br>내 손에 있는 하수인들에게<br></br>+1/+1을 부여합니다.",
     "attack": 2,
-    "health": 0,
     "durability": 3,
-    "armor": 0,
-    "flavor": "특정 각도로 빛이 그림을 비출 때를 기다려 보세요.",
-    "spellSchool": "",
-    "portrait": "HS31-040_W.tif:e59b4ce8cf794b4083b721cc7c8c58d6",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_810.png"
+    "classes": []
   }
 }

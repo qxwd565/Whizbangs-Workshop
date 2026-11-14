@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_651",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "실험실 손님이 퇴학당하면 험상궂은 손님이 됩니다.",
+        "portrait": "HS31-067_M.tif:77777a84308b433ca5152f5a2a380013",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_651.png"
+      }
+    }
+  }
+}

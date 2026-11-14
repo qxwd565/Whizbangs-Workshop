@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MIS_025",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-05-15",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-05-15": {
+        "flavor": "박사 붐은 삼중지역에서 가장 위대한 발명가입니다!",
+        "portrait": "HS31-343_M.tif:56dce76cced44839875f1054426bc1f1",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 3318,
+            "name": "미니미",
+            "value": 1
+          },
+          {
+            "id": 3399,
+            "name": "특대화",
+            "value": 1
+          }
+        ],
+        "art": "art/MIS_025.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_509",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "상대방도 태엽도 돌리고 또 돌리세요.",
+        "portrait": "HS31-105_M.tif:457b1b010e5c4352a38e9668303ba597",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1720,
+            "name": "교환성",
+            "value": 1
+          },
+          {
+            "id": 1743,
+            "name": "덱 행동 비용",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_509.png"
+      }
+    }
+  }
+}

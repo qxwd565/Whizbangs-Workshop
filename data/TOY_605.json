@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 2,
     "text": "<b>도발</b> 하수인을 둘 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "버그 발생하면 어쩌려고 이런 카드를...",
-    "spellSchool": "",
-    "portrait": "HS31-074_S.tif:cf90f9a05458435f873852301af05d82",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 10
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_605.png"
+    "classes": []
   }
 }

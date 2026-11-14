@@ -1,0 +1,42 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_700t1",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "",
+        "portrait": "HS31-219_S.tif:c86b5003a90b41a9bbed2dc9856c5868",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_700t1.png"
+      }
+    }
+  }
+}

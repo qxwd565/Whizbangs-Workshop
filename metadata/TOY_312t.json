@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_312t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "",
+        "portrait": "HS31-079_M.tif:db7fbfb1626a43e7a7e89f1bb907e27f",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 3319,
+            "name": "미니",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_312t.png"
+      }
+    }
+  }
+}

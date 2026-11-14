@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_881",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "와, 이거 가치가 어마어마한 카드예요! 개봉만 안 하면요.",
+        "portrait": "HS31-164_S.tif:b0e5723231564bd09c2b172c980ec1eb",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_881.png"
+      }
+    }
+  }
+}

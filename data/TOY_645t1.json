@@ -9,39 +9,6 @@
     "collectible": false,
     "cost": 2,
     "text": "카드를 3장 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-018_S.tif:2d1954e0180a48a3a675b1bd1c5ec007",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_645t1.png"
+    "classes": []
   }
 }

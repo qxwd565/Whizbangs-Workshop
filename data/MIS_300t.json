@@ -11,79 +11,10 @@
     "text": "<b>특대</b>, <b>모면</b>,<br></br><b>생명력 흡수</b>, <b>도발</b>",
     "attack": 8,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-307_M.tif:dec0eb4770ee4fc49d3d8228594bcf95",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1211,
-        "name": "모면",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 3400,
-        "name": "특대",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/MIS_300t.png"
+    "classes": []
   }
 }

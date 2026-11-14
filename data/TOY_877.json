@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 7,
     "text": "내 손, 덱, 전장에 있는<br></br>모든 하수인에게<br></br>+2/+3을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"무슨 소원 빌 거야?\" \"내 공격력과 생명력을 아주 조오오오금만 더 높게 해 달라고!\" \"...정말? 백만쯤 높여 달라고 안 하고?\"",
     "spellSchool": "ARCANE",
-    "portrait": "HS31-183_S.tif:52671ddbaf674a63a080cd510c05ba2a",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_877.png"
+    "classes": []
   }
 }

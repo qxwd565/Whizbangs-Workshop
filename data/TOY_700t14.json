@@ -9,59 +9,6 @@
     "collectible": false,
     "cost": 1,
     "text": "주술사 <b>퀘스트</b>를 3개 시작합니다.<br></br>멀록과 <b>과부하</b> 카드를 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "LC26-014_S.tif:0e0debba93e94e309ccf777a4810278e",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 462,
-        "name": "퀘스트",
-        "value": 1
-      },
-      {
-        "id": 676,
-        "name": "무작위 선택 제외",
-        "value": 1
-      },
-      {
-        "id": 839,
-        "name": "게임 태그 839",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_700t14.png"
+    "classes": []
   }
 }

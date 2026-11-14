@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_896",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "불에 닿으면 종이에 베여, 화상과 맞먹는 쓰라림이 몰려옵니다. 어때요?",
+        "portrait": "HS31-203_M.tif:3191d36ae78b4745b924c5cd5c0734a7",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_896.png"
+      }
+    }
+  }
+}

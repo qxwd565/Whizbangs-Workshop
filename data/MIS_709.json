@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 4,
     "text": "<b>생명력 흡수</b><br></br>하수인에게 피해를 $4 줍니다. 이번 턴에 내가 신성 주문을 시전했으면, 비용이 (1)이 됩니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "어딘가에 파편을 몇 개 잃어버린 나루가 있겠군요.",
     "spellSchool": "HOLY",
-    "portrait": "HS31-319_S.tif:9ca0113349bd4458b380ffb22ceae653",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MIS_709.png"
+    "classes": []
   }
 }

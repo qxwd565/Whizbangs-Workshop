@@ -11,57 +11,6 @@
     "text": "<b>죽음의 메아리:</b> 이번 게임 동안<br></br>내 비취 등신대들에게 +1/+1을<br></br>부여합니다. 비취 등신대 둘을<br></br>내 덱에 섞어 넣습니다.",
     "attack": 1,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "비취 연꽃은 매년 카메라만 더 좋은 똑같은 상품을 출시합니다.",
-    "spellSchool": "",
-    "portrait": "HS31-148_M.tif:3df7edf771134c4f969bd9e8bf4eb4eb",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_803.png"
+    "classes": []
   }
 }

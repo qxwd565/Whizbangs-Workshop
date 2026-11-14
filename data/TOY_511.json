@@ -11,69 +11,10 @@
     "text": "내가 해적을 소환한 후에,<br></br>그 해적을 복사하여 소환합니다. 복사한 해적은 무작위 적을 공격하고 죽습니다.",
     "attack": 5,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"이번에 털어온 건 포티스 선장의 베이비 샤워 선물로 해야겠어!\"",
-    "spellSchool": "",
-    "portrait": "HS31-134_M.tif:b5d9f07c049a4c43846875ec13428728",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 23
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "PIRATE"
     ],
     "race": "해적",
-    "classes": [],
-    "art": "art/TOY_511.png"
+    "classes": []
   }
 }

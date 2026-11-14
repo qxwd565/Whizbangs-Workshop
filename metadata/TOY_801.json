@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_801",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "그 손 저리 치아!",
+        "portrait": "HS31-144_M.tif:ced5ad16f75943d9b1a3e55a5ed3416e",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          },
+          {
+            "id": 3318,
+            "name": "미니미",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_801.png"
+      }
+    }
+  }
+}

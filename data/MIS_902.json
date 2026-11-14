@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 2,
     "text": "방어도를 최대<br></br>5 잃습니다. 그만큼<br></br>내 다음 기계의<br></br>비용이 감소합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"잘 가! 잘 가! 잘 가!\"",
-    "spellSchool": "",
-    "portrait": "HS31-336_S.tif:1e2602b309414039b105d628274109ec",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 10
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MIS_902.png"
+    "classes": []
   }
 }

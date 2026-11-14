@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 1,
     "text": "하수인을 2턴 동안<br></br><b>휴면</b> 상태로 만듭니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "레드 카드가 나오네요! 게다가 다음 2턴 동안 출전할 수도 없습니다.",
-    "spellSchool": "",
-    "portrait": "HS31-141_S.tif:eb5314e4ca7249cf83371707da2a3f29",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_644.png"
+    "classes": []
   }
 }

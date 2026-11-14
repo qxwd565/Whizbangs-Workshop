@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_700t14",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "",
+        "portrait": "LC26-014_S.tif:0e0debba93e94e309ccf777a4810278e",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 462,
+            "name": "퀘스트",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 839,
+            "name": "게임 태그 839",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_700t14.png"
+      }
+    }
+  }
+}

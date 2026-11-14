@@ -10,55 +10,11 @@
     "text": "",
     "attack": 1,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-033_M.tif:8303ec8699dd458babbe3e18be1d2efa",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 2539,
-        "name": "게임 태그 2539",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL",
       "BEAST"
     ],
     "race": "기계, 야수",
-    "classes": [],
-    "art": "art/TOY_358t.png"
+    "classes": []
   }
 }

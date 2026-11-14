@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 3,
     "text": "모든 적 하수인에게 피해를 $1 줍니다.<br></br>내 손에 있는 용족의 수만큼 반복합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "안 되죠, 위즈뱅. 대충 만든 선반을 멋진 사제 주문으로 둔갑해 팔 수는 없다고요.",
-    "spellSchool": "",
-    "portrait": "HS31-321_S.tif:dee4e420b3384c58ad8a7b7133b7b115",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_714.png"
+    "classes": []
   }
 }

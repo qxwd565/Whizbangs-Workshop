@@ -11,64 +11,10 @@
     "text": "내 턴이 끝날 때,<br></br>이 하수인보다 공격력이 낮은 하수인을 처치합니다.",
     "attack": 4,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "거기 딱 기다리고 있으랍니다.",
-    "spellSchool": "",
-    "portrait": "HS31-211_M.tif:c270d56c45084ceb8c395046cc3bb1b3",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL"
     ],
     "race": "기계",
-    "classes": [],
-    "art": "art/TOY_820.png"
+    "classes": []
   }
 }

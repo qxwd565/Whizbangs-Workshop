@@ -11,64 +11,10 @@
     "text": "내가 해적을 소환한 후에, 그 해적에게 공격력을 +1 부여합니다.",
     "attack": 1,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "해적 다섯이 1,000개의 장난감을 분배하는 방법은?",
-    "spellSchool": "",
-    "portrait": "HS31-205_M.tif:9a19b66eb8ad4206b8acb27fd57d42b1",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 23
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "PIRATE"
     ],
     "race": "해적",
-    "classes": [],
-    "art": "art/TOY_518.png"
+    "classes": []
   }
 }

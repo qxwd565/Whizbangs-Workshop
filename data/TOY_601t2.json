@@ -10,49 +10,10 @@
     "text": "",
     "attack": 6,
     "health": 7,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-210_M.tif:44093963d43d4c489b4e602d07f641f3",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 7
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
     "races": [
       "MECHANICAL"
     ],
     "race": "기계",
-    "classes": [],
-    "art": "art/TOY_601t2.png"
+    "classes": []
   }
 }

@@ -10,54 +10,10 @@
     "text": "<b>질풍</b>",
     "attack": 1,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-094_M.tif:de09c0fabe2d4931ac572259bfc105ba",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 189,
-        "name": "질풍",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
     "races": [
       "DRAENEI"
     ],
     "race": "드레나이",
-    "classes": [],
-    "art": "art/TOY_814t4.png"
+    "classes": []
   }
 }

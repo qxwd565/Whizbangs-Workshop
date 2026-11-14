@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MIS_104",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-05-15",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-05-15": {
+        "flavor": "키워도 되냐고 묻지 마세요. 답은 안 된다고 정해져 있으니까요.",
+        "portrait": "HS31-312_S.tif:efac2c4104854dd4ac7f16394e7a747b",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 3630,
+            "name": "게임 태그 3630",
+            "value": 1
+          }
+        ],
+        "art": "art/MIS_104.png"
+      }
+    }
+  }
+}

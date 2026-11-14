@@ -1,0 +1,32 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_382t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "",
+        "portrait": "HS31-048_S.tif:febe0c101fe64b81b0b3a93691499fcc",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          }
+        ],
+        "art": "art/TOY_382t.png"
+      }
+    }
+  }
+}

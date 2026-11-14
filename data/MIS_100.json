@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 4,
     "text": "하수인에게 -5/-5를 부여합니다. 내 손에 있는 무작위 하수인에게 +5/+5를 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"...네 아버지도 멀록이었지.\"",
     "spellSchool": "SHADOW",
-    "portrait": "HS31-302_S.tif:6280b11dced6495cbe3c31bd82ea7e12",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 2196,
-        "name": "혈기 룬",
-        "value": 2
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MIS_100.png"
+    "classes": []
   }
 }

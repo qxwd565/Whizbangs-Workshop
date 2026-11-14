@@ -1,0 +1,82 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MIS_101",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-05-15",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-05-15": {
+        "flavor": "안 사줄거야. 집에 어둠한이 있잖니.",
+        "portrait": "HS31-303_W.tif:af11e097c31040f0894bbf9704e83f6b",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2198,
+            "name": "부정 룬",
+            "value": 1
+          },
+          {
+            "id": 2559,
+            "name": "시체",
+            "value": 1
+          },
+          {
+            "id": 4058,
+            "name": "시체 소모",
+            "value": 1
+          }
+        ],
+        "art": "art/MIS_101.png"
+      }
+    }
+  }
+}

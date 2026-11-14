@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 2,
     "text": "<b>모든</b> 하수인에게 \"<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 1 줌\"<br></br>능력을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "엄마, 나 실토했어...",
     "spellSchool": "SHADOW",
-    "portrait": "HS31-008_S.tif:44f462fb21b2498eb74820d838e50b83",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 2196,
-        "name": "혈기 룬",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_826.png"
+    "classes": []
   }
 }

@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_807",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "당신이 올빼미 같다는군요.",
+        "portrait": "HS31-025_M.tif:9c61ff1803a04773b5e95e6cdc8b0b98",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1932,
+            "name": "다이아몬드 카드 존재",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_807.png"
+      }
+    }
+  }
+}

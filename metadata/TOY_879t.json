@@ -1,0 +1,42 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_879t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "",
+        "portrait": "HS31-172_S.tif:7190fd95f78446d4b870367857c4568a",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_879t.png"
+      }
+    }
+  }
+}

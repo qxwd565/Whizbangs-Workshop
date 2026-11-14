@@ -11,62 +11,6 @@
     "text": "<b>모면</b>, 내가 주문을<br></br>시전한 후에, 비용이 (1) 높은 무작위 주문을 시전합니다.",
     "attack": 2,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "다크문 마술사는 모자에서 토끼를 꺼내고, 승리도 꺼내죠.",
-    "spellSchool": "",
-    "portrait": "HS31-315_M.tif:4a7f4938f89543a0aee51d00f3158f7c",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1211,
-        "name": "모면",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MIS_303.png"
+    "classes": []
   }
 }

@@ -9,59 +9,6 @@
     "collectible": true,
     "cost": 2,
     "text": "<b>비밀:</b> 상대편이 하수인 또는 주문 또는 무기를 낸 후에, 나머지 종류인 카드를 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "늑대인간 폭주족은 누가 상향하기 전까지만 해도 여기 있었습니다.",
-    "spellSchool": "",
-    "portrait": "HS31-313_S.tif:b5b7428afab647989491206918ba0271",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MIS_105.png"
+    "classes": []
   }
 }

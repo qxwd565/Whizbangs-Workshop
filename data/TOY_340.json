@@ -11,67 +11,6 @@
     "text": "<b>미니미</b>, 내가 주문을 처음 시전할 때 +2/+2를 얻습니다.",
     "attack": 2,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "추억의 수습생: \"대학 시절로 다시 돌아갈 수 있다면 얼마나 좋을까...\" 켈투자드: \"그만.\"",
-    "spellSchool": "",
-    "portrait": "HS31-082_M.tif:f5b295350dbb4986a3a0b7628f5a1af1",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 103329
-      },
-      {
-        "id": 3318,
-        "name": "미니미",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_340.png"
+    "classes": []
   }
 }

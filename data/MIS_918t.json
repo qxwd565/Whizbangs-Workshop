@@ -11,64 +11,10 @@
     "text": "<b>특대</b>, 이번 게임에서 내가 시전한 신성 주문 하나당 비용이 (1)씩 감소합니다.",
     "attack": 8,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-318_M.tif:bdc3be6f8e35459eadb72dd645b33e9a",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 3400,
-        "name": "특대",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL"
     ],
     "race": "기계",
-    "classes": [],
-    "art": "art/MIS_918t.png"
+    "classes": []
   }
 }

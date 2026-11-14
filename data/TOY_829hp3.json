@@ -8,34 +8,6 @@
     "collectible": false,
     "cost": 2,
     "text": "압도적인 <i>완력</i>으로 피해를 $3 주어라! 내 머리를 <i>뽑으면</i> 내 군대가 네 것이 되리라!",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-900_HP.tif:cce6af2c0d526644f9b123d684f9b2f2",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 10
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_829hp3.png"
+    "classes": []
   }
 }

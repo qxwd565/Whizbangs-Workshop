@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 1,
     "text": "피해를 $2 줍니다. <b>도발</b> 능력이 있는 0/1 개구리를 둘 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "입장 책이요?",
     "spellSchool": "NATURE",
-    "portrait": "HS31-057_S.tif:0190733878d44ae696ddecfd3753d4c4",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 548
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_508.png"
+    "classes": []
   }
 }

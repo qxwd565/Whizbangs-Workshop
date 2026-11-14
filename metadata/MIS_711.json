@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MIS_711",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-05-15",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-05-15": {
+        "flavor": "주의: 몸에 어마어마한 양의 폭발물을 매달고 있다면 반드시 헬멧을 착용하세요.",
+        "portrait": "HS31-334_M.tif:4bd7bf9e2c2847c48671d8e87c6f70e6",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 8
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 8
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 10
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/MIS_711.png"
+      }
+    }
+  }
+}

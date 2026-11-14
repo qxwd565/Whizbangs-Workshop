@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_330t92",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "연속 재생하는 데 딱입니다!",
+        "portrait": "HS31-247_M.tif:d0fe59a7448c4b53b2ee994e7660c7a4",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 542,
+            "name": "게임 태그 542",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 3377,
+            "name": "질리악스 기능 모듈",
+            "value": 1
+          },
+          {
+            "id": 3450,
+            "name": "연결된 질리악스 외형 모듈 ID",
+            "value": 110440
+          }
+        ],
+        "art": "art/TOY_330t92.png"
+      }
+    }
+  }
+}

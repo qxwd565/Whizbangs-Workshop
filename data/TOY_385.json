@@ -11,89 +11,10 @@
     "text": "<b>전투의 함성:</b> 내가 다른<br></br>용족을 8마리 냈으면 내 턴이<br></br>한 번 더 진행됩니다.",
     "attack": 4,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "위즈뱅의 환불 정책이 얼마나 관대한지, 자리미는 요즘 제일 바쁩니다.",
-    "spellSchool": "",
-    "portrait": "HS31-053_M.tif:1a9a051a6bad41638c6bbf735e21e46a",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2459,
-        "name": "대상 조건 태그 ID",
-        "value": 2
-      },
-      {
-        "id": 2460,
-        "name": "대상 조건 수치",
-        "value": 8
-      },
-      {
-        "id": 3465,
-        "name": "추가 턴 주문 설정",
-        "value": 1
-      },
-      {
-        "id": 4357,
-        "name": "게임 태그 4357",
-        "value": 1
-      }
-    ],
     "races": [
       "DRAGON"
     ],
     "race": "용족",
-    "classes": [],
-    "art": "art/TOY_385.png"
+    "classes": []
   }
 }

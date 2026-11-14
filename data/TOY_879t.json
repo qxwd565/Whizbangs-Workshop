@@ -8,39 +8,6 @@
     "collectible": false,
     "cost": 2,
     "text": "재포장된 하수인들을<br></br>내 손으로 가져옵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-172_S.tif:7190fd95f78446d4b870367857c4568a",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_879t.png"
+    "classes": []
   }
 }

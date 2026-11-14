@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_330t99",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "두말하면 입 아프죠. 모든 상황에 딱입니다!",
+        "portrait": "HS31-254_M.tif:86c5b6f4432649d59803bfced81f43d7",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 3377,
+            "name": "질리악스 기능 모듈",
+            "value": 1
+          },
+          {
+            "id": 3450,
+            "name": "연결된 질리악스 외형 모듈 ID",
+            "value": 110446
+          }
+        ],
+        "art": "art/TOY_330t99.png"
+      }
+    }
+  }
+}

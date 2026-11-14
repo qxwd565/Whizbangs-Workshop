@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_825",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "코볼트의 싸움이 종결된 이야기 주문석을 흘리고 사라진 아자리 너도 나도 팔아 넘긴 액세서리 담긴 어둠의 힘은 그 누구도 모르리",
+        "portrait": "HS31-005_S.tif:d6cb2af1a7624de58882b3733dd06549",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 105356
+          },
+          {
+            "id": 2196,
+            "name": "혈기 룬",
+            "value": 1
+          },
+          {
+            "id": 2559,
+            "name": "시체",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_825.png"
+      }
+    }
+  }
+}

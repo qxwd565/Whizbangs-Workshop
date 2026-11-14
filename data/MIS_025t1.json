@@ -11,74 +11,10 @@
     "text": "<b>특대</b>, 이 하수인과 공격력이 같은 하수인을 낸 후에,<br></br>그 하수인을 복사하여 소환합니다.",
     "attack": 8,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-345_M.tif:336d0794d4304a7193ef609a658a55b4",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 3400,
-        "name": "특대",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL"
     ],
     "race": "기계",
-    "classes": [],
-    "art": "art/MIS_025t1.png"
+    "classes": []
   }
 }

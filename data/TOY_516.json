@@ -11,69 +11,10 @@
     "text": "<b>속공</b>, <b>연계:</b> 이 하수인을 복사하여 소환합니다.",
     "attack": 3,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "중고품 가게에 가야 최고의 해적단원을 볼 수 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS31-178_M.tif:bb11e61f1f3f47c0aafe371b37a3e509",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 23
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 220,
-        "name": "연계",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      }
-    ],
     "races": [
       "PIRATE"
     ],
     "race": "해적",
-    "classes": [],
-    "art": "art/TOY_516.png"
+    "classes": []
   }
 }

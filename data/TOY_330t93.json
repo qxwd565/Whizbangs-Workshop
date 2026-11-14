@@ -10,67 +10,6 @@
     "text": "내 턴이 끝날 때,<br></br>내 영웅에게 피해를<br></br>3 줍니다.",
     "attack": 4,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "속도를 만끽하기에 딱입니다!",
-    "spellSchool": "",
-    "portrait": "HS31-248_M.tif:d4809e9efa9342fcbed28fe1853f8443",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 676,
-        "name": "무작위 선택 제외",
-        "value": 1
-      },
-      {
-        "id": 3377,
-        "name": "질리악스 기능 모듈",
-        "value": 1
-      },
-      {
-        "id": 3450,
-        "name": "연결된 질리악스 외형 모듈 ID",
-        "value": 110442
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_330t93.png"
+    "classes": []
   }
 }

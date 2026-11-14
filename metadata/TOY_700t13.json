@@ -1,0 +1,37 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_700t13",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-03-20",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-03-20": {
+        "flavor": "",
+        "portrait": "HS31-225_S.tif:ac5f164bb7bb4d02bd28b49592942a26",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 402,
+            "name": "능력치 숨김",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_700t13.png"
+      }
+    }
+  }
+}

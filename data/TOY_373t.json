@@ -9,48 +9,7 @@
     "cost": 3,
     "text": "내 턴이 끝날 때, 도움이 되는<br></br>마법사 주문을 시전합니다. 내구도를 1 잃습니다.",
     "attack": 0,
-    "health": 0,
     "durability": 6,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-037_W.tif:b0511a90e7314366ad289e58d0d4cfb0",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_373t.png"
+    "classes": []
   }
 }

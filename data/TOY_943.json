@@ -11,57 +11,6 @@
     "text": "내가 내 손에서 가장 오른쪽<br></br>또는 왼쪽에 있는 카드를<br></br>낸 후에, 무작위 적에게<br></br>피해를 1 줍니다.",
     "attack": 2,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "선술집에는 항상 게임 한 판 더 시작할 자리가 있죠!",
-    "spellSchool": "",
-    "portrait": "HS31-198_M.tif:7e89abc2cbbf40ce94ade2bb000659c4",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_943.png"
+    "classes": []
   }
 }

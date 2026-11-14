@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 5,
     "text": "<b>모든</b> 하수인을 과거의<br></br>무작위 <b>전설</b> 하수인으로<br></br>변신시킵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "내 하수인들 얼리지 마. 알았어????",
     "spellSchool": "NATURE",
-    "portrait": "HS31-328_S.tif:a3eb97d551fe42f9a2bb790c74b49c7a",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MIS_701.png"
+    "classes": []
   }
 }

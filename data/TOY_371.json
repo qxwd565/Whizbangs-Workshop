@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 5,
     "text": "카드를 3장 뽑습니다.<br></br>내 덱에 하수인이 없으면,<br></br>그 카드들의 비용이 (3) 감소합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "9조각짜리 퍼즐은 쉬울 줄 알았죠?",
-    "spellSchool": "",
-    "portrait": "HS31-157_S.tif:bb873bac25754380ac22bb336bb0fac7",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_371.png"
+    "classes": []
   }
 }

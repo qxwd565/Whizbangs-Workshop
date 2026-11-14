@@ -11,74 +11,10 @@
     "text": "<b>특대화</b>, 이번 게임에서 내가 시전한 신성 주문 하나당 비용이 (1)씩 감소합니다.",
     "attack": 3,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "극적인 효과를 위해, 배터리가 거의 밑바닥인 상태로 출하됩니다.",
-    "spellSchool": "",
-    "portrait": "HS31-317_M.tif:5c485c361ede49d4b00be6604cca30a2",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 106663
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 3399,
-        "name": "특대화",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL"
     ],
     "race": "기계",
-    "classes": [],
-    "art": "art/MIS_918.png"
+    "classes": []
   }
 }

@@ -8,39 +8,6 @@
     "collectible": false,
     "cost": 2,
     "text": "압도적인 <i>완력</i>으로 피해를 $3 주어라!<br></br><i>졸개</i>로 부릴 언데드를 <b>발견</b>하라!",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-130_HP.tif:be34079c374746329833681b18112855",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 10
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_829hp.png"
+    "classes": []
   }
 }

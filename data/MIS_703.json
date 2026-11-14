@@ -11,74 +11,10 @@
     "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 영웅의 남은 생명력을 15로 만듭니다.",
     "attack": 6,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "카드 설명이다!",
-    "spellSchool": "",
-    "portrait": "HS31-333_M.tif:efad8e6ea72042bead299fcde4d23a82",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON"
     ],
     "race": "악마",
-    "classes": [],
-    "art": "art/MIS_703.png"
+    "classes": []
   }
 }

@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 6,
     "text": "내 손에서 비용이 가장 높은 하수인을 소환하고, 그 하수인에게 피해를 $5 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "산성 액체가 아니라 정보를 유출하라니까!",
-    "spellSchool": "",
-    "portrait": "HS31-069_S.tif:69986eaa11df49d7ae1a40170d4ae47e",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 10
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_602.png"
+    "classes": []
   }
 }

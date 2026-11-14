@@ -10,67 +10,6 @@
     "text": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
     "attack": 3,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "몸이 두 개라면 좋겠다는 생각이 들 때 딱입니다!",
-    "spellSchool": "",
-    "portrait": "HS31-252_M.tif:9969a178c6b84dceaf239e0c188568a0",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 676,
-        "name": "무작위 선택 제외",
-        "value": 1
-      },
-      {
-        "id": 3377,
-        "name": "질리악스 기능 모듈",
-        "value": 1
-      },
-      {
-        "id": 3450,
-        "name": "연결된 질리악스 외형 모듈 ID",
-        "value": 110443
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/TOY_330t97.png"
+    "classes": []
   }
 }

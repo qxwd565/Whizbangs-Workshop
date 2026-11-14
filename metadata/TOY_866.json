@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TOY_866",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-02-14",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-02-14": {
+        "flavor": "공방에서 나는 깊이 들어갑니다. 카드를 선택할 때 나는 가져가는 카드입니다. 이번에는 더 싸졌습니다. 맞습니다. 나는 잠자는 복도 벌레입니다.",
+        "portrait": "HS31-207_M.tif:15a7aa44c6d241a8a12275fde5ee965a",
+        "set": "WHIZBANGS_WORKSHOP",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1518,
+            "name": "휴면",
+            "value": 1
+          },
+          {
+            "id": 1652,
+            "name": "게임 태그 1652",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "art": "art/TOY_866.png"
+      }
+    }
+  }
+}

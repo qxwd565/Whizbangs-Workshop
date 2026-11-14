@@ -11,69 +11,10 @@
     "text": "내 덱을 만들 때, 2단 합체 질리악스 3000을 직접 만들어 보세요!",
     "attack": 0,
     "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS31-110_M.tif:0321ba7d97de48cab9b816436245d028",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 684,
-        "name": "비용 숨김",
-        "value": 1
-      },
-      {
-        "id": 3376,
-        "name": "질리악스 외형 모듈",
-        "value": 1
-      },
-      {
-        "id": 3470,
-        "name": "연결된 질리악스 기능 모듈 ID",
-        "value": 104948
-      },
-      {
-        "id": 3471,
-        "name": "생명력 숫자 숨김",
-        "value": 1
-      },
-      {
-        "id": 3472,
-        "name": "공격력 숫자 숨김",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL"
     ],
     "race": "기계",
-    "classes": [],
-    "art": "art/TOY_330t6.png"
+    "classes": []
   }
 }

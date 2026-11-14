@@ -11,90 +11,11 @@
     "text": "<b>도발</b>, <b>전투의 함성:</b><br></br><b>시체</b>를 5개 소모해<br></br>이 하수인을 복사하여 소환합니다.",
     "attack": 3,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "휘청거리는 거미 전차입니다.",
-    "spellSchool": "",
-    "portrait": "HS31-003_M.tif:6e6f4c5c77e146f78e7643b3bf7012a8",
-    "set": "WHIZBANGS_WORKSHOP",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2198,
-        "name": "부정 룬",
-        "value": 1
-      },
-      {
-        "id": 2539,
-        "name": "게임 태그 2539",
-        "value": 1
-      },
-      {
-        "id": 2559,
-        "name": "시체",
-        "value": 1
-      },
-      {
-        "id": 4058,
-        "name": "시체 소모",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD",
       "MECHANICAL"
     ],
     "race": "언데드, 기계",
-    "classes": [],
-    "art": "art/TOY_827.png"
+    "classes": []
   }
 }
