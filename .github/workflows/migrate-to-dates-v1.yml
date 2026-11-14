@@ -30,11 +30,43 @@ jobs:
           python /tmp/convert-to-dates-v1.py --root . --strict
           python /tmp/convert-to-dates-v1.py --root . --strict --check
           git diff --check
+      - name: Verify Workshop first playable cards including pre-purchase exclusives
+        run: |
+          python - <<'PYRELEASE'
+          import json
+          from pathlib import Path
+          catalog=Path("cards.json")
+          payload=json.loads(catalog.read_text(encoding="utf-8"))
+          if len(payload.get("cards",[]))!=271: raise SystemExit("Card count changed")
+          early={"TOY_703","TOY_866"}
+          for c in payload["cards"]:
+              p=Path("data")/(c["id"]+".json")
+              raw=p.read_text(encoding="utf-8")
+              doc=json.loads(raw)
+              days=sorted(k for k in doc if len(k)==10 and k[4]=="-" and k[7]=="-")
+              if not days: raise SystemExit("No first date "+c["id"])
+              init=doc[days[0]]
+              if init.get("id")!=c["id"] or init.get("dbfId")!=c["dbfId"]: raise SystemExit("ID/DBF conflict "+c["id"])
+              expected=("2024-02-14" if c["id"] in early else
+                        "2024-05-15" if c["id"].startswith("MIS_") else
+                        "2024-03-20" if c["id"].startswith("TOY_") else None)
+              if c["id"] in early and days[0]=="2024-03-20":
+                  if "2024-02-14" in doc: raise SystemExit("Already early dated "+c["id"])
+                  fixed=raw.replace('"2024-03-20":','"2024-02-14":',1)
+                  if raw==fixed: raise SystemExit("Could not shift early key "+c["id"])
+                  p.write_text(fixed,encoding="utf-8")
+                  days[0]="2024-02-14"
+              if days[0]!=expected: raise SystemExit("Unexpected first-use date "+c["id"]+" "+days[0]+" expected "+str(expected))
+              if c.get("releasedAt") not in (None,days[0]): raise SystemExit("Catalog date conflict "+c["id"])
+              c["releasedAt"]=days[0]
+              c["releaseStatus"]="verified"
+          catalog.write_text(json.dumps(payload,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+          PYRELEASE
       - name: Commit dated card JSON only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -u -- data/
+          git add -u -- data/ cards.json
           if ! git diff --cached --quiet; then
             git commit -m 'Convert Whizbangs-Workshop card history to dates-v1 [skip ci]'
             git push origin HEAD:main
