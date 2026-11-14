@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_307t","dbfId":102785,"name":"첨가당 소낙눈","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":1,"text":"<b>미니</b>, <b>전투의 함성:</b>\n<b>일시적</b>인 무작위 냉기\n주문을 둘 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-081_M.tif:ce541e558398477791ccf3b958046264","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":3319,"name":"미니","value":1},{"id":3630,"name":"게임 태그 3630","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TOY_307t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-081_M.tif:ce541e558398477791ccf3b958046264","goldenMaterial":"TOY_307t_PremiumCard.mat:3a64ddc6a65d1ae4286520d97f956116","goldenAnimation":"TOY_307t_PremiumCard.asset:28eb06109c6253d43885273c353c2e7a"}}
+{
+  "2024-03-20": {
+    "id": "TOY_307t",
+    "dbfId": 102785,
+    "name": "첨가당 소낙눈",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>미니</b>, <b>전투의 함성:</b><br></br><b>일시적</b>인 무작위 냉기<br></br>주문을 둘 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-081_M.tif:ce541e558398477791ccf3b958046264",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 3319,
+        "name": "미니",
+        "value": 1
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TOY_307t.png"
+  }
+}

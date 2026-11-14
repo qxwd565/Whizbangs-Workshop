@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_305","dbfId":108622,"name":"지연된 상품","type":"SPELL","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"비용이 (8) 이상인 하수인을 <b>발견</b>하여 소환합니다. 그 하수인은 2턴 동안 <b>휴면</b> 상태가 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"지금 출발했어요!","spellSchool":"","portrait":"HS31-323_S.tif:eb370fea2def4fd0ba79a10c9100b01f","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1518,"name":"휴면","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_305.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-323_S.tif:eb370fea2def4fd0ba79a10c9100b01f","goldenMaterial":"MIS_305_PremiumCard.mat:6ca310b67a91480439b614511f9d39e4","goldenAnimation":"MIS_305_PremiumCard.asset:78bf99ca45e6aba44bd5afb0a477abd1"}}
+{
+  "2024-05-15": {
+    "id": "MIS_305",
+    "dbfId": 108622,
+    "name": "지연된 상품",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "비용이 (8) 이상인 하수인을 <b>발견</b>하여 소환합니다. 그 하수인은 2턴 동안 <b>휴면</b> 상태가 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "지금 출발했어요!",
+    "spellSchool": "",
+    "portrait": "HS31-323_S.tif:eb370fea2def4fd0ba79a10c9100b01f",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_305.png"
+  }
+}

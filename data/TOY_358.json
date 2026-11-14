@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_358","dbfId":103167,"name":"무선 조종기","type":"WEAPON","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"내 영웅이 공격한 후에, 1/1 사냥개를 소환합니다.","attack":1,"health":0,"durability":3,"armor":0,"flavor":"이유는 모르겠지만, 우리 개가 계속 이걸 씹고 뜯고 맛보더군요.","spellSchool":"","portrait":"HS31-032_W.tif:29b3443b25744c649a51c1744cb94cec","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":103168}],"races":[],"race":"","classes":[],"art":"art/TOY_358.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-032_W.tif:29b3443b25744c649a51c1744cb94cec","goldenMaterial":"TOY_358_PremiumCard.mat:079025adc97a44a4b8953e05597d6e92","goldenAnimation":"TOY_358_PremiumCard.asset:04d511681014266479bbf6a0b9ee525e"}}
+{
+  "2024-03-20": {
+    "id": "TOY_358",
+    "dbfId": 103167,
+    "name": "무선 조종기",
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 영웅이 공격한 후에, 1/1 사냥개를 소환합니다.",
+    "attack": 1,
+    "health": 0,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "이유는 모르겠지만, 우리 개가 계속 이걸 씹고 뜯고 맛보더군요.",
+    "spellSchool": "",
+    "portrait": "HS31-032_W.tif:29b3443b25744c649a51c1744cb94cec",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 103168
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_358.png"
+  }
+}

@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_377","dbfId":103352,"name":"리치 여왕 십자수","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":4,"text":"캐릭터에게 피해를 $3 줍니다. 그 캐릭터가 죽으면, 적을 <b>빙결</b> 상태로 만드는 3/6 물의 정령을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"힘 그 자체를 두려워해선 안 되노라. 그 힘을 수놓는 자를 두려워할 지니!","spellSchool":"FROST","portrait":"HS31-036_S.tif:0b24514d1dbf417c8e11f0ea57b30f0a","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":208,"name":"빙결","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":69503},{"id":1635,"name":"주문 속성","value":3}],"races":[],"race":"","classes":[],"art":"art/TOY_377.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-036_S.tif:0b24514d1dbf417c8e11f0ea57b30f0a","goldenMaterial":"TOY_377_PremiumCard.mat:3f05b706d31d3de42a70333cf6265da5","goldenAnimation":"TOY_377_PremiumCard.asset:2ab213ba6b4728840ac6caad1f73188b"}}
+{
+  "2024-03-20": {
+    "id": "TOY_377",
+    "dbfId": 103352,
+    "name": "리치 여왕 십자수",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "캐릭터에게 피해를 $3 줍니다. 그 캐릭터가 죽으면, 적을 <b>빙결</b> 상태로 만드는 3/6 물의 정령을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "힘 그 자체를 두려워해선 안 되노라. 그 힘을 수놓는 자를 두려워할 지니!",
+    "spellSchool": "FROST",
+    "portrait": "HS31-036_S.tif:0b24514d1dbf417c8e11f0ea57b30f0a",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 69503
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 3
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_377.png"
+  }
+}

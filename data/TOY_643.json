@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_643","dbfId":104514,"name":"뽑기 상자","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"무작위 악마를 둘 얻습니다.\n<b>추방자:</b> 대신 <b>발견</b>합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"어떻게 화염 임프만 셋 나오냐? 천장은 안 된다고!","spellSchool":"","portrait":"HS31-140_S.tif:354d3e04a1b8479b9d4ab43e43b76293","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1333,"name":"추방자","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_643.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-140_S.tif:354d3e04a1b8479b9d4ab43e43b76293","goldenMaterial":"TOY_643_PremiumCard.mat:6cfd8c7d487b11b40b628d203d278f8e","goldenAnimation":"TOY_643_PremiumCard.asset:b0d28fb4fc303ae47959827bd220d40b"}}
+{
+  "2024-03-20": {
+    "id": "TOY_643",
+    "dbfId": 104514,
+    "name": "뽑기 상자",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "무작위 악마를 둘 얻습니다.<br></br><b>추방자:</b> 대신 <b>발견</b>합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "어떻게 화염 임프만 셋 나오냐? 천장은 안 된다고!",
+    "spellSchool": "",
+    "portrait": "HS31-140_S.tif:354d3e04a1b8479b9d4ab43e43b76293",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_643.png"
+  }
+}

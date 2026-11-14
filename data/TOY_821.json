@@ -1,1 +1,100 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_821","dbfId":104987,"name":"말썽꾸러기 솜멍이","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>속공</b>, 내가 냉기 주문을 시전한 후에, <b>환생</b>을 얻습니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"리치 왕은 솜멍이가 없으면 잠을 못 잡니다.","spellSchool":"","portrait":"HS31-001_M.tif:2a6414eab870458a871436af4f3d738e","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1085,"name":"환생","value":1},{"id":2197,"name":"냉기 룬","value":1},{"id":2542,"name":"게임 태그 2542","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/TOY_821.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-001_M.tif:2a6414eab870458a871436af4f3d738e","goldenMaterial":"TOY_821_PremiumCard.mat:e3d009d302d613844934da532adc55a8","goldenAnimation":"TOY_821_PremiumCard.asset:3dc99605e660a824b843762e709dec10"}}
+{
+  "2024-03-20": {
+    "id": "TOY_821",
+    "dbfId": 104987,
+    "name": "말썽꾸러기 솜멍이",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>속공</b>, 내가 냉기 주문을 시전한 후에, <b>환생</b>을 얻습니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "리치 왕은 솜멍이가 없으면 잠을 못 잡니다.",
+    "spellSchool": "",
+    "portrait": "HS31-001_M.tif:2a6414eab870458a871436af4f3d738e",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 2197,
+        "name": "냉기 룬",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/TOY_821.png"
+  }
+}

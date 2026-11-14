@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_340t1","dbfId":103329,"name":"추억의 수습생","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":1,"text":"<b>미니</b>, 내가 주문을 처음 시전할 때 +2/+2를 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-083_M.tif:77db7cdc54274eada6aefe3521567e88","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":3319,"name":"미니","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_340t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-083_M.tif:77db7cdc54274eada6aefe3521567e88","goldenMaterial":"TOY_340t1_PremiumCard.mat:0a3cebff12dfa1243933ac1834ad2365","goldenAnimation":"TOY_340t1_PremiumCard.asset:5a75757c9b0ccd94190eca1e904f4d4a"}}
+{
+  "2024-03-20": {
+    "id": "TOY_340t1",
+    "dbfId": 103329,
+    "name": "추억의 수습생",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>미니</b>, 내가 주문을 처음 시전할 때 +2/+2를 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-083_M.tif:77db7cdc54274eada6aefe3521567e88",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 3319,
+        "name": "미니",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_340t1.png"
+  }
+}

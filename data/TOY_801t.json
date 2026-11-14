@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_801t","dbfId":104590,"name":"치아 비룡","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":false,"cost":1,"text":"<b>미니</b>, <b>선택 -</b>\n<b>주문 공격력 +1</b>을 얻습니다. 또는\n주문을 뽑습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-145_M.tif:c282339072e7e284e921c0f0e8b9d47a","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":443,"name":"선택","value":1},{"id":3319,"name":"미니","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/TOY_801t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-145_M.tif:c282339072e7e284e921c0f0e8b9d47a","goldenMaterial":"TOY_801t_PremiumCard.mat:23c59a81a5af90143a8b6e9c6d94eeb6","goldenAnimation":"TOY_801t_PremiumCard.asset:a761af747e8a64b429f19555c8f3927f"}}
+{
+  "2024-03-20": {
+    "id": "TOY_801t",
+    "dbfId": 104590,
+    "name": "치아 비룡",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>미니</b>, <b>선택 -</b><br></br><b>주문 공격력 +1</b>을 얻습니다. 또는<br></br>주문을 뽑습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-145_M.tif:c282339072e7e284e921c0f0e8b9d47a",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 3319,
+        "name": "미니",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "classes": [],
+    "art": "art/TOY_801t.png"
+  }
+}

@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_828","dbfId":104694,"name":"풋내기 인형조종사","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":5,"text":"<b>미니미</b>, <b>도발</b>, <b>죽음의 메아리:</b>\n내 손에 있는 언데드들에게\n+2/+2를 부여합니다.","attack":2,"health":6,"durability":0,"armor":0,"flavor":"\"전 진짜 장난감이에요!\"","spellSchool":"","portrait":"HS31-135_M.tif:05176539e65948f88b704f280b9cbc66","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":105360},{"id":2196,"name":"혈기 룬","value":1},{"id":2198,"name":"부정 룬","value":1},{"id":3318,"name":"미니미","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/TOY_828.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-135_M.tif:05176539e65948f88b704f280b9cbc66","goldenMaterial":"TOY_828_PremiumCard.mat:818d2af2de5f96245a038e68e30aa38a","goldenAnimation":"TOY_828_PremiumCard.asset:e613e94a49d8cd749acd9466a77cff71"}}
+{
+  "2024-03-20": {
+    "id": "TOY_828",
+    "dbfId": 104694,
+    "name": "풋내기 인형조종사",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>미니미</b>, <b>도발</b>, <b>죽음의 메아리:</b><br></br>내 손에 있는 언데드들에게<br></br>+2/+2를 부여합니다.",
+    "attack": 2,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"전 진짜 장난감이에요!\"",
+    "spellSchool": "",
+    "portrait": "HS31-135_M.tif:05176539e65948f88b704f280b9cbc66",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 105360
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      },
+      {
+        "id": 3318,
+        "name": "미니미",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/TOY_828.png"
+  }
+}

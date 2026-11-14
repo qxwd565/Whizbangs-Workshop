@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_307t1","dbfId":108627,"name":"어른 멀록","type":"MINION","cardClass":"SHAMAN","rarity":"RARE","collectible":false,"cost":8,"text":"<b>특대</b>, <b>전투의 함성:</b> <b>속공</b> 능력이 있고 이 하수인과 능력치가 같은 아기 멀록을 소환합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-330_M.tif:ed5eff57371c4c7fb63cf9e855ae68b1","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":3400,"name":"특대","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/MIS_307t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-330_M.tif:ed5eff57371c4c7fb63cf9e855ae68b1","goldenMaterial":"MIS_307t1_PremiumCard.mat:45031d27d99f72d47b0b8413ebab6d49","goldenAnimation":"MIS_307t1_PremiumCard.asset:1eeaf1477a79dd2439f33f1f186f8762"}}
+{
+  "2024-05-15": {
+    "id": "MIS_307t1",
+    "dbfId": 108627,
+    "name": "어른 멀록",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 8,
+    "text": "<b>특대</b>, <b>전투의 함성:</b> <b>속공</b> 능력이 있고 이 하수인과 능력치가 같은 아기 멀록을 소환합니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-330_M.tif:ed5eff57371c4c7fb63cf9e855ae68b1",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 3400,
+        "name": "특대",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/MIS_307t1.png"
+  }
+}

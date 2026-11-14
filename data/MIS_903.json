@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_903","dbfId":105142,"name":"의심스러운 구매","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":4,"text":"카드를 3장 뽑습니다.\n<b>연계:</b> 무작위 적 하수인을\n처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"아름다움의 기준은 전갈을 가진 사람마다 제각각입니다.","spellSchool":"","portrait":"HS31-324_S.tif:b68105222ff4452c9ae3da59a5935a9f","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":220,"name":"연계","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_903.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-324_S.tif:b68105222ff4452c9ae3da59a5935a9f","goldenMaterial":"MIS_903_PremiumCard.mat:d34597945b5ff0249bfb31f149dad554","goldenAnimation":"MIS_903_PremiumCard.asset:8544f78e76f006b42bc0697ef4e98c3c"}}
+{
+  "2024-05-15": {
+    "id": "MIS_903",
+    "dbfId": 105142,
+    "name": "의심스러운 구매",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "카드를 3장 뽑습니다.<br></br><b>연계:</b> 무작위 적 하수인을<br></br>처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아름다움의 기준은 전갈을 가진 사람마다 제각각입니다.",
+    "spellSchool": "",
+    "portrait": "HS31-324_S.tif:b68105222ff4452c9ae3da59a5935a9f",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 220,
+        "name": "연계",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_903.png"
+  }
+}

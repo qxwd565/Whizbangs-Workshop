@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_378","dbfId":103354,"name":"은하계 투영 구슬","type":"SPELL","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":10,"text":"이번 게임에서 내가 시전한 각 비용의 무작위 주문을 다시 시전합니다. <i>(가능하다면 적을\n대상으로 선택)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"구슬을 들여다보노라면, 우주와 시간이 확장되는 현상이 보입니다. 아니면 단순한 투영일 수도 있고요.","spellSchool":"ARCANE","portrait":"HS31-163_S.tif:823be178e5944cda81e8a474c1bb910a","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":676,"name":"무작위 선택 제외","value":1},{"id":960,"name":"게임 태그 960","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_378.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-163_S.tif:823be178e5944cda81e8a474c1bb910a","goldenMaterial":"TOY_378_PremiumCard.mat:ee434796923fb2c45a19b6ce0bbe39ac","goldenAnimation":"TOY_378_PremiumCard.asset:23211510bc5475b488c57b539ed15c39"}}
+{
+  "2024-03-20": {
+    "id": "TOY_378",
+    "dbfId": 103354,
+    "name": "은하계 투영 구슬",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 10,
+    "text": "이번 게임에서 내가 시전한 각 비용의 무작위 주문을 다시 시전합니다. <i>(가능하다면 적을<br></br>대상으로 선택)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "구슬을 들여다보노라면, 우주와 시간이 확장되는 현상이 보입니다. 아니면 단순한 투영일 수도 있고요.",
+    "spellSchool": "ARCANE",
+    "portrait": "HS31-163_S.tif:823be178e5944cda81e8a474c1bb910a",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 960,
+        "name": "게임 태그 960",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_378.png"
+  }
+}

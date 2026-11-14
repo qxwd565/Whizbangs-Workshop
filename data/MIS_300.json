@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_300","dbfId":108615,"name":"복슬복슬 곰 인형","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>특대화</b>, <b>모면</b>, <b>생명력 흡수</b>, <b>도발</b>","attack":2,"health":4,"durability":0,"armor":0,"flavor":"누가 진심을 담아 만들었네요.","spellSchool":"","portrait":"HS31-306_M.tif:abd9416696ed43628572cee1e01cd215","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1211,"name":"모면","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":108616},{"id":1824,"name":"미니 세트","value":1},{"id":3399,"name":"특대화","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/MIS_300.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-306_M.tif:abd9416696ed43628572cee1e01cd215","goldenMaterial":"MIS_300_PremiumCard.mat:817e3475909e60e44a3a77f5da00f283","goldenAnimation":"MIS_300_PremiumCard.asset:2410699010316de438ba2449baf9d439"}}
+{
+  "2024-05-15": {
+    "id": "MIS_300",
+    "dbfId": 108615,
+    "name": "복슬복슬 곰 인형",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>특대화</b>, <b>모면</b>, <b>생명력 흡수</b>, <b>도발</b>",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "누가 진심을 담아 만들었네요.",
+    "spellSchool": "",
+    "portrait": "HS31-306_M.tif:abd9416696ed43628572cee1e01cd215",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 108616
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3399,
+        "name": "특대화",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/MIS_300.png"
+  }
+}

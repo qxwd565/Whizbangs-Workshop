@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_700","dbfId":105499,"name":"놀 때려잡기","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":1,"text":"과거의 성기사 무기를 <b>발견</b>합니다.\n그 무기에 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"서부 몰락지대에서 죽은 와우 하드코어 캐릭터의 원수를 갚고 싶으세요? 어서 오세요!","spellSchool":"","portrait":"HS31-320_S.tif:78f96086152148e7a9428fa72f1e9782","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_700.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-320_S.tif:78f96086152148e7a9428fa72f1e9782","goldenMaterial":"MIS_700_PremiumCard.mat:945539f0d65d4be4aa7811474f76187a","goldenAnimation":"MIS_700_PremiumCard.asset:6804d046fa8ae9747a004d0c6cf6f73f"}}
+{
+  "2024-05-15": {
+    "id": "MIS_700",
+    "dbfId": 105499,
+    "name": "놀 때려잡기",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "과거의 성기사 무기를 <b>발견</b>합니다.<br></br>그 무기에 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "서부 몰락지대에서 죽은 와우 하드코어 캐릭터의 원수를 갚고 싶으세요? 어서 오세요!",
+    "spellSchool": "",
+    "portrait": "HS31-320_S.tif:78f96086152148e7a9428fa72f1e9782",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_700.png"
+  }
+}

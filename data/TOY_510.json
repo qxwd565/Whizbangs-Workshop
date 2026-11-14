@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_510","dbfId":103341,"name":"보물 발굴","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":1,"text":"하수인을 뽑습니다.\n그 하수인이 해적이면,\n동전을 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"아싸! 해적 나왔다!\"","spellSchool":"","portrait":"HS31-055_S.tif:b7f083947f074c3ba4d915395945b09e","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_510.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-055_S.tif:b7f083947f074c3ba4d915395945b09e","goldenMaterial":"TOY_510_PremiumCard.mat:d1deb17d013e4e448ae209f07f16706d","goldenAnimation":"TOY_510_PremiumCard.asset:1594f468995abb7488aec7e5edc71f46"}}
+{
+  "2024-03-20": {
+    "id": "TOY_510",
+    "dbfId": 103341,
+    "name": "보물 발굴",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인을 뽑습니다.<br></br>그 하수인이 해적이면,<br></br>동전을 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"아싸! 해적 나왔다!\"",
+    "spellSchool": "",
+    "portrait": "HS31-055_S.tif:b7f083947f074c3ba4d915395945b09e",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_510.png"
+  }
+}

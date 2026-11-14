@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_601","dbfId":103431,"name":"공장 조립로봇","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":10,"text":"<b>미니미</b>, 내 턴이 끝날 때,\n무작위 적을 공격하는\n6/7 로봇을 소환합니다.","attack":6,"health":7,"durability":0,"armor":0,"flavor":"미니미 꾸미기에 심취했습니다.","spellSchool":"","portrait":"HS31-208_M.tif:7560d5d5342d4089b0fc72f3f2e80641","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":103432},{"id":3318,"name":"미니미","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/TOY_601.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-208_M.tif:7560d5d5342d4089b0fc72f3f2e80641","goldenMaterial":"TOY_601_PremiumCard.mat:444988eac0b01b142bc8e2bfc3b4ec5e","goldenAnimation":"TOY_601_PremiumCard.asset:b6061f3d016fd6e4ebf2bd01d1872640"}}
+{
+  "2024-03-20": {
+    "id": "TOY_601",
+    "dbfId": 103431,
+    "name": "공장 조립로봇",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>미니미</b>, 내 턴이 끝날 때,<br></br>무작위 적을 공격하는<br></br>6/7 로봇을 소환합니다.",
+    "attack": 6,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "미니미 꾸미기에 심취했습니다.",
+    "spellSchool": "",
+    "portrait": "HS31-208_M.tif:7560d5d5342d4089b0fc72f3f2e80641",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 103432
+      },
+      {
+        "id": 3318,
+        "name": "미니미",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/TOY_601.png"
+  }
+}

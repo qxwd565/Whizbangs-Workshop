@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_866","dbfId":105100,"name":"잠자는 복도 벌레","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>휴면</b> 상태로 시작합니다. 하수인이 7마리 죽으면 깨어납니다.","attack":3,"health":5,"durability":0,"armor":0,"flavor":"공방에서 나는 깊이 들어갑니다. 카드를 선택할 때 나는 가져가는 카드입니다. 이번에는 더 싸졌습니다. 맞습니다. 나는 잠자는 복도 벌레입니다.","spellSchool":"","portrait":"HS31-207_M.tif:15a7aa44c6d241a8a12275fde5ee965a","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1518,"name":"휴면","value":1},{"id":1652,"name":"게임 태그 1652","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TOY_866.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-207_M.tif:15a7aa44c6d241a8a12275fde5ee965a","goldenMaterial":"TOY_866_PremiumCard.mat:f1db26e7ad866ef4e96c3ac8915bd0ec","goldenAnimation":"TOY_866_PremiumCard.asset:a411672d81beda646b69d52afd9a6e39"}}
+{
+  "2024-03-20": {
+    "id": "TOY_866",
+    "dbfId": 105100,
+    "name": "잠자는 복도 벌레",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>휴면</b> 상태로 시작합니다. 하수인이 7마리 죽으면 깨어납니다.",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "공방에서 나는 깊이 들어갑니다. 카드를 선택할 때 나는 가져가는 카드입니다. 이번에는 더 싸졌습니다. 맞습니다. 나는 잠자는 복도 벌레입니다.",
+    "spellSchool": "",
+    "portrait": "HS31-207_M.tif:15a7aa44c6d241a8a12275fde5ee965a",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1652,
+        "name": "게임 태그 1652",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TOY_866.png"
+  }
+}

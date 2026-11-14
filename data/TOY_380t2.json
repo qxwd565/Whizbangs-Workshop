@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_380t2","dbfId":107774,"name":"점토 새끼용","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":4,"text":"<b>모면</b>","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-052_M.tif:9ec60e5287ca4559ace00199ad1e21a4","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":1211,"name":"모면","value":1},{"id":2355,"name":"새끼용","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/TOY_380t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-052_M.tif:9ec60e5287ca4559ace00199ad1e21a4","goldenMaterial":"TOY_380t2_PremiumCard.mat:17141eff6f0123943bf68bf8ec633141","goldenAnimation":"TOY_380t2_PremiumCard.asset:8b9e1e13830237f40b17035eb5d4e1de"}}
+{
+  "2024-03-20": {
+    "id": "TOY_380t2",
+    "dbfId": 107774,
+    "name": "점토 새끼용",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>모면</b>",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-052_M.tif:9ec60e5287ca4559ace00199ad1e21a4",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 2355,
+        "name": "새끼용",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "classes": [],
+    "art": "art/TOY_380t2.png"
+  }
+}

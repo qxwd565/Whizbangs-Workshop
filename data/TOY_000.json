@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_000","dbfId":102337,"name":"타르 액체괴물","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>도발</b>, 상대편의 턴 동안 공격력을 +2 얻습니다.","attack":0,"health":3,"durability":0,"armor":0,"flavor":"귀여움이 넘쳐 흐릅니다!","spellSchool":"","portrait":"HS31-089_M.tif:6e2ef4d0fa794287a4c3b34d2f2691a0","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TOY_000.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-089_M.tif:6e2ef4d0fa794287a4c3b34d2f2691a0","goldenMaterial":"TOY_000_PremiumCard.mat:479a478250d14274490ad40ed0824a1c","goldenAnimation":"TOY_000_PremiumCard.asset:b4e68f2faafb0344abeac4d2508c9a59"}}
+{
+  "2024-03-20": {
+    "id": "TOY_000",
+    "dbfId": 102337,
+    "name": "타르 액체괴물",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>도발</b>, 상대편의 턴 동안 공격력을 +2 얻습니다.",
+    "attack": 0,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "귀여움이 넘쳐 흐릅니다!",
+    "spellSchool": "",
+    "portrait": "HS31-089_M.tif:6e2ef4d0fa794287a4c3b34d2f2691a0",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TOY_000.png"
+  }
+}

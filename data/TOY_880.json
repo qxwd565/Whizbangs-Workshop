@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_880","dbfId":104796,"name":"태엽 집행자","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":6,"text":"<b>교환성</b>, <b>전투의 함성:</b>\n이 하수인을 1장 복사하여 소환합니다.<i>(이 카드를 <b>교환</b>하면 강화됩니다!)</i>","attack":3,"health":5,"durability":0,"armor":0,"flavor":"제 6404.5조 허가권자의 지시가 있을 때까지 모든 집행자는 포장 상태를 유지해야 한다.","spellSchool":"","portrait":"HS31-043_M.tif:834981f3785048b5a5d2c8ecdc985994","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1720,"name":"교환성","value":1},{"id":1743,"name":"덱 행동 비용","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_880.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-043_M.tif:834981f3785048b5a5d2c8ecdc985994","goldenMaterial":"TOY_880_PremiumCard.mat:4b977524c6127ef46ac560ff94795419","goldenAnimation":"TOY_880_PremiumCard.asset:8e5f31af2f095434e85894e8b63ca7f0"}}
+{
+  "2024-03-20": {
+    "id": "TOY_880",
+    "dbfId": 104796,
+    "name": "태엽 집행자",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>교환성</b>, <b>전투의 함성:</b><br></br>이 하수인을 1장 복사하여 소환합니다.<i>(이 카드를 <b>교환</b>하면 강화됩니다!)</i>",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "제 6404.5조 허가권자의 지시가 있을 때까지 모든 집행자는 포장 상태를 유지해야 한다.",
+    "spellSchool": "",
+    "portrait": "HS31-043_M.tif:834981f3785048b5a5d2c8ecdc985994",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1720,
+        "name": "교환성",
+        "value": 1
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_880.png"
+  }
+}

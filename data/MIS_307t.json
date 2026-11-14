@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_307t","dbfId":108626,"name":"목욕놀이 아기 멀록","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":1,"text":"<b>속공</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-331_M.tif:b68c57aa7a704d5bac07f66d0e78d8f5","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/MIS_307t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-331_M.tif:b68c57aa7a704d5bac07f66d0e78d8f5","goldenMaterial":"MIS_307t_PremiumCard.mat:5ccc7f569d74fda4cb8953bf413c7bdc","goldenAnimation":"MIS_307t_PremiumCard.asset:4c1487bdedf7fa5428b209902c116b00"}}
+{
+  "2024-05-15": {
+    "id": "MIS_307t",
+    "dbfId": 108626,
+    "name": "목욕놀이 아기 멀록",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>속공</b>",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-331_M.tif:b68c57aa7a704d5bac07f66d0e78d8f5",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/MIS_307t.png"
+  }
+}

@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_712","dbfId":105582,"name":"토이란투스","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>도발</b>, <b>모면</b>, <b>전투의 함성:</b>\n내 마나 수정이 10개면,\n+7/+7을 얻습니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"박사 붐이 어릴 때 공룡을 좋아했나 봅니다.","spellSchool":"","portrait":"HS31-310_M.tif:58b102dc84f6408c844b161029f6110e","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1211,"name":"모면","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/MIS_712.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-310_M.tif:58b102dc84f6408c844b161029f6110e","goldenMaterial":"MIS_712_PremiumCard.mat:33e38bfb8d5f68047855d702e9f02082","goldenAnimation":"MIS_712_PremiumCard.asset:a73f4517a56ba584ab04e826373f4d2e"}}
+{
+  "2024-05-15": {
+    "id": "MIS_712",
+    "dbfId": 105582,
+    "name": "토이란투스",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b>, <b>모면</b>, <b>전투의 함성:</b><br></br>내 마나 수정이 10개면,<br></br>+7/+7을 얻습니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "박사 붐이 어릴 때 공룡을 좋아했나 봅니다.",
+    "spellSchool": "",
+    "portrait": "HS31-310_M.tif:58b102dc84f6408c844b161029f6110e",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/MIS_712.png"
+  }
+}

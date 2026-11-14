@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_916c","dbfId":106678,"name":"가위!","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"상대편이 보를 선택하면, 카드 2장 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-342_S.tif:42f01fc3cccd4c9da7bed102fb3b9048","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_916c.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-342_S.tif:42f01fc3cccd4c9da7bed102fb3b9048","goldenMaterial":"MIS_916c_PremiumCard.mat:0f3efd3065931154796e0f7349d1336b","goldenAnimation":"MIS_916c_PremiumCard.asset:629ee02108d1d6842981e1a211330564"}}
+{
+  "2024-05-15": {
+    "id": "MIS_916c",
+    "dbfId": 106678,
+    "name": "가위!",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "상대편이 보를 선택하면, 카드 2장 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-342_S.tif:42f01fc3cccd4c9da7bed102fb3b9048",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_916c.png"
+  }
+}

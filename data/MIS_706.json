@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_706","dbfId":105516,"name":"먼지 토끼","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성과 죽음의 메아리:</b>\n무작위 잡동사니를 내 손으로 가져옵니다. <i>(동전, 돌멩이, 바나나 또는 손칼)</i>","attack":3,"health":2,"durability":0,"armor":0,"flavor":"같은 무게의 가루와 동일한 가치를 지녔습니다.","spellSchool":"","portrait":"HS31-326_M.tif:6d0c48b1083e4efdb432fd4fb5c960be","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/MIS_706.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-326_M.tif:6d0c48b1083e4efdb432fd4fb5c960be","goldenMaterial":"MIS_706_PremiumCard.mat:5a752c74f14ef8545a82cda7048c501d","goldenAnimation":"MIS_706_PremiumCard.asset:2e40f96a83b7b1c46b146ac21dcfe148"}}
+{
+  "2024-05-15": {
+    "id": "MIS_706",
+    "dbfId": 105516,
+    "name": "먼지 토끼",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성과 죽음의 메아리:</b><br></br>무작위 잡동사니를 내 손으로 가져옵니다. <i>(동전, 돌멩이, 바나나 또는 손칼)</i>",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "같은 무게의 가루와 동일한 가치를 지녔습니다.",
+    "spellSchool": "",
+    "portrait": "HS31-326_M.tif:6d0c48b1083e4efdb432fd4fb5c960be",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/MIS_706.png"
+  }
+}

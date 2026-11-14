@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_390","dbfId":103509,"name":"땡처리 호객꾼","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>죽음의 메아리:</b> 내 손에 있는 주문 둘의 비용이 (1) 감소합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"\"죄송합니다, 고객님. 방금 늑대인간 폭주족 피규어가 마지막이었어요.\"","spellSchool":"","portrait":"HS31-087_M.tif:fa512d9ae086409ca0dda31cf636c2a7","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_390.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-087_M.tif:fa512d9ae086409ca0dda31cf636c2a7","goldenMaterial":"TOY_390_PremiumCard.mat:c9a2d41eb9694234999c915f65a6a7de","goldenAnimation":"TOY_390_PremiumCard.asset:1a7718670c9eb2d4a8d77a78084d9910"}}
+{
+  "2024-03-20": {
+    "id": "TOY_390",
+    "dbfId": 103509,
+    "name": "땡처리 호객꾼",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>죽음의 메아리:</b> 내 손에 있는 주문 둘의 비용이 (1) 감소합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"죄송합니다, 고객님. 방금 늑대인간 폭주족 피규어가 마지막이었어요.\"",
+    "spellSchool": "",
+    "portrait": "HS31-087_M.tif:fa512d9ae086409ca0dda31cf636c2a7",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_390.png"
+  }
+}

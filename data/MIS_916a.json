@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_916a","dbfId":106676,"name":"바위!","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"상대편이 가위를 선택하면, 카드를 2장 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-340_S.tif:336e56797dd9475e85000901cd6a4c71","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_916a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-340_S.tif:336e56797dd9475e85000901cd6a4c71","goldenMaterial":"MIS_916a_PremiumCard.mat:45d79d6761014b34990162c6865913e3","goldenAnimation":"MIS_916a_PremiumCard.asset:000e455a5aa2fd7488f032d1c9983213"}}
+{
+  "2024-05-15": {
+    "id": "MIS_916a",
+    "dbfId": 106676,
+    "name": "바위!",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "상대편이 가위를 선택하면, 카드를 2장 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-340_S.tif:336e56797dd9475e85000901cd6a4c71",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_916a.png"
+  }
+}

@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_512","dbfId":103346,"name":"수정 만","type":"LOCATION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":3,"text":"이번 턴에 내가 소환하는 다음 하수인의 능력치를 4/4로 만듭니다.","attack":0,"health":3,"durability":3,"armor":0,"flavor":"이상하게도 수정 만에 출몰하는 자들은 모두 이름이 같습니다...","spellSchool":"","portrait":"HS31-054_L.tif:a34db3559ce047a4966df04e9049106e","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":39},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_512.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-054_L.tif:a34db3559ce047a4966df04e9049106e","goldenMaterial":"TOY_512_PremiumCard.mat:24ac5800ad48d564d8e283287d3baa00","goldenAnimation":"TOY_512_PremiumCard.asset:9a5e33b917890904c890de90955b8a78"}}
+{
+  "2024-03-20": {
+    "id": "TOY_512",
+    "dbfId": 103346,
+    "name": "수정 만",
+    "type": "LOCATION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "이번 턴에 내가 소환하는 다음 하수인의 능력치를 4/4로 만듭니다.",
+    "attack": 0,
+    "health": 3,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "이상하게도 수정 만에 출몰하는 자들은 모두 이름이 같습니다...",
+    "spellSchool": "",
+    "portrait": "HS31-054_L.tif:a34db3559ce047a4966df04e9049106e",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_512.png"
+  }
+}

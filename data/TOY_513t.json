@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_513t","dbfId":103380,"name":"색모래 정령","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":false,"cost":1,"text":"<b>미니</b>, <b>전투의 함성:</b>\n이번 턴에 내 영웅에게 공격력 +1과 <b>질풍</b>을 부여합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-059_M.tif:51734685e8e94c9aa901dd44420e19ba","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":3319,"name":"미니","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TOY_513t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-059_M.tif:51734685e8e94c9aa901dd44420e19ba","goldenMaterial":"TOY_513t_PremiumCard.mat:0141f7013c854584f970b332e55993f2","goldenAnimation":"TOY_513t_PremiumCard.asset:4466df7aaa355ba45af3396a0e007427"}}
+{
+  "2024-03-20": {
+    "id": "TOY_513t",
+    "dbfId": 103380,
+    "name": "색모래 정령",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>미니</b>, <b>전투의 함성:</b><br></br>이번 턴에 내 영웅에게 공격력 +1과 <b>질풍</b>을 부여합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-059_M.tif:51734685e8e94c9aa901dd44420e19ba",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 3319,
+        "name": "미니",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TOY_513t.png"
+  }
+}

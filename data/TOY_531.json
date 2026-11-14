@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_531","dbfId":104977,"name":"상점 관리인 리나","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"내가 주문을 시전할 때마다 같은 비용의 무작위 하수인으로 내 전장을 가득 채웁니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"<i>누군가</i>는 서류 작업을 담당해야 하죠.","spellSchool":"","portrait":"HS31-107_M.tif:2a3533bfd52b4020b8624dc8ff807264","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_531.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-107_M.tif:2a3533bfd52b4020b8624dc8ff807264","goldenMaterial":"TOY_531_PremiumCard.mat:d949c6222cb2b904aaafe51861578771","goldenAnimation":"TOY_531_PremiumCard.asset:c01b5daab842a30438c576bedd3110ce"}}
+{
+  "2024-03-20": {
+    "id": "TOY_531",
+    "dbfId": 104977,
+    "name": "상점 관리인 리나",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "내가 주문을 시전할 때마다 같은 비용의 무작위 하수인으로 내 전장을 가득 채웁니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "<i>누군가</i>는 서류 작업을 담당해야 하죠.",
+    "spellSchool": "",
+    "portrait": "HS31-107_M.tif:2a3533bfd52b4020b8624dc8ff807264",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_531.png"
+  }
+}

@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_913","dbfId":103169,"name":"씨씨지","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"<b>전투의 함성, 추방자,\n죽음의 메아리:</b> 무작위 초판 악마사냥꾼 카드를 얻습니다. <i>(신품 상태로)</i>","attack":4,"health":4,"durability":0,"armor":0,"flavor":"하이엘프어로 쓰인 황금 굴단의 해골 1장 중 1장을 2,000,000골드에 산 적이 있습니다.","spellSchool":"","portrait":"HS31-020_M.tif:000ce7985e8c4dd394664a1f4c193074","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1333,"name":"추방자","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_913.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-020_M.tif:000ce7985e8c4dd394664a1f4c193074","goldenMaterial":"TOY_913_PremiumCard.mat:9f0bb5178732d574e8be912f5cd5a5f9","goldenAnimation":"TOY_913_PremiumCard.asset:93fc11f112b7eed42b62c8bff9864794"}}
+{
+  "2024-03-20": {
+    "id": "TOY_913",
+    "dbfId": 103169,
+    "name": "씨씨지",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성, 추방자,<br></br>죽음의 메아리:</b> 무작위 초판 악마사냥꾼 카드를 얻습니다. <i>(신품 상태로)</i>",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "하이엘프어로 쓰인 황금 굴단의 해골 1장 중 1장을 2,000,000골드에 산 적이 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS31-020_M.tif:000ce7985e8c4dd394664a1f4c193074",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_913.png"
+  }
+}

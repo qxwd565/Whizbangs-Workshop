@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_700t9","dbfId":106251,"name":"소원의 덱","type":"SPELL","cardClass":"DEMONHUNTER","collectible":false,"cost":0,"text":"완벽한 카드를 주는\n소원이 3개 들어 있는\n덱입니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-213.tif:d0440b9737a34ba39183ce81d6175d18","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_700t9.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-213.tif:d0440b9737a34ba39183ce81d6175d18","goldenMaterial":"TOY_700t9_PremiumCard.mat:aa34ae134297bf742b9e375e1e464a63","goldenAnimation":"TOY_700t9_PremiumCard.asset:172ee484cb81ab242bc2fd64711287a1"}}
+{
+  "2024-03-20": {
+    "id": "TOY_700t9",
+    "dbfId": 106251,
+    "name": "소원의 덱",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 0,
+    "text": "완벽한 카드를 주는<br></br>소원이 3개 들어 있는<br></br>덱입니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-213.tif:d0440b9737a34ba39183ce81d6175d18",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_700t9.png"
+  }
+}

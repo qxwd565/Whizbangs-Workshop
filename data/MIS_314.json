@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_314","dbfId":109150,"name":"블록 골렘","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":5,"text":"<b>속공</b>, <b>죽음의 메아리</b>: 비용이 1인 무작위 하수인을 셋 소환합니다.","attack":6,"health":3,"durability":0,"armor":0,"flavor":"비용 1짜리 하수인이나 밟아라!","spellSchool":"","portrait":"HS31-338_M.tif:adc6b89474624fadb43252d17571f9c2","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_314.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-338_M.tif:adc6b89474624fadb43252d17571f9c2","goldenMaterial":"MIS_314_PremiumCard.mat:e4d49257ccb9b88449801d7e9b43838b","goldenAnimation":"MIS_314_PremiumCard.asset:ae8c219fcebca6f45a344c8f19212a0e"}}
+{
+  "2024-05-15": {
+    "id": "MIS_314",
+    "dbfId": 109150,
+    "name": "블록 골렘",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>속공</b>, <b>죽음의 메아리</b>: 비용이 1인 무작위 하수인을 셋 소환합니다.",
+    "attack": 6,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비용 1짜리 하수인이나 밟아라!",
+    "spellSchool": "",
+    "portrait": "HS31-338_M.tif:adc6b89474624fadb43252d17571f9c2",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_314.png"
+  }
+}

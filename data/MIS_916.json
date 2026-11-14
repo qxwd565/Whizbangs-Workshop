@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_916","dbfId":105262,"name":"프로 게이머","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 상대와 가위바위보를 합니다! 승자가 카드를 2장 뽑습니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"에휴... 예상 못한 분? 또 바사기가 메타를 망치는군요.","spellSchool":"","portrait":"HS31-339_M.tif:840166bcdf884953a4f881ae521f85bc","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_916.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-339_M.tif:840166bcdf884953a4f881ae521f85bc","goldenMaterial":"MIS_916_PremiumCard.mat:36e091b18fe227749ac8d1898238e8c6","goldenAnimation":"MIS_916_PremiumCard.asset:a8d61089be8f7f84cb8ec1f0f6e4dbe6"}}
+{
+  "2024-05-15": {
+    "id": "MIS_916",
+    "dbfId": 105262,
+    "name": "프로 게이머",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 상대와 가위바위보를 합니다! 승자가 카드를 2장 뽑습니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "에휴... 예상 못한 분? 또 바사기가 메타를 망치는군요.",
+    "spellSchool": "",
+    "portrait": "HS31-339_M.tif:840166bcdf884953a4f881ae521f85bc",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_916.png"
+  }
+}

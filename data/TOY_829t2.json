@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_829t2","dbfId":111901,"name":"저주받은 기사","type":"HERO","cardClass":"DEATHKNIGHT","rarity":"LEGENDARY","collectible":false,"cost":6,"text":"<b>전투의 함성:</b> <i>공격력</i>이 가장 높은 적 하수인을 처치한다!\n내 머리를 덱에 섞어 넣고, 반드시 <i>되찾아라</i>!","attack":0,"health":30,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-011_H.tif:83df9876aa6d425785ece12a9fa58231","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":30},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":3},{"id":203,"name":"희귀도","value":5},{"id":380,"name":"영웅 능력","value":104639},{"id":2839,"name":"감정 표현 캐릭터","value":260},{"id":3438,"name":"영웅 소환 효과 설정","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_829t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-011_H.tif:83df9876aa6d425785ece12a9fa58231","goldenMaterial":"TOY_829t2_PremiumCard.mat:9c5e7c30b9e960949a542fb8a7f294b9","goldenAnimation":"TOY_829t2_PremiumCard.asset:15a68e18ca773bb4d8a4969fedfd9e93"}}
+{
+  "2024-03-20": {
+    "id": "TOY_829t2",
+    "dbfId": 111901,
+    "name": "저주받은 기사",
+    "type": "HERO",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> <i>공격력</i>이 가장 높은 적 하수인을 처치한다!<br></br>내 머리를 덱에 섞어 넣고, 반드시 <i>되찾아라</i>!",
+    "attack": 0,
+    "health": 30,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-011_H.tif:83df9876aa6d425785ece12a9fa58231",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 104639
+      },
+      {
+        "id": 2839,
+        "name": "감정 표현 캐릭터",
+        "value": 260
+      },
+      {
+        "id": 3438,
+        "name": "영웅 소환 효과 설정",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_829t2.png"
+  }
+}

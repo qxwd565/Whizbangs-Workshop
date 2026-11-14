@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_700t6","dbfId":106248,"name":"신비의 덱","type":"SPELL","cardClass":"MAGE","collectible":false,"cost":0,"text":"이 덱의 카드들은 내 손에 있으면 매 턴마다 비용을 낼 수 있는 무작위 카드들로 변신합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-221_S.tif:b4c495386fd444ce920e880c4fe75f79","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_700t6.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-221_S.tif:b4c495386fd444ce920e880c4fe75f79","goldenMaterial":"TOY_700t6_PremiumCard.mat:16199d45788dd4b4088aaa8a179ab1f7","goldenAnimation":"TOY_700t6_PremiumCard.asset:777500e086450dc45ad0f28bb25acfe8"}}
+{
+  "2024-03-20": {
+    "id": "TOY_700t6",
+    "dbfId": 106248,
+    "name": "신비의 덱",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 0,
+    "text": "이 덱의 카드들은 내 손에 있으면 매 턴마다 비용을 낼 수 있는 무작위 카드들로 변신합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-221_S.tif:b4c495386fd444ce920e880c4fe75f79",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_700t6.png"
+  }
+}

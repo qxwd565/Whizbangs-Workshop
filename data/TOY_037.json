@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_037","dbfId":102449,"name":"숨겨진 물건","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>비밀</b>을 <b>발견</b>합니다.\n그 비밀의 비용이\n(1)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이 그림에는 노움이 99명 있습니다. 모두 찾아보시겠어요?","spellSchool":"","portrait":"HS31-156_S.tif:45e54b27beb140f2a617867d8dcd7274","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_037.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-156_S.tif:45e54b27beb140f2a617867d8dcd7274","goldenMaterial":"TOY_037_PremiumCard.mat:d4235e2070727cb4fb03d20c2426b62a","goldenAnimation":"TOY_037_PremiumCard.asset:ac19b7f1b0dc1b74fbe790506b4a7093"}}
+{
+  "2024-03-20": {
+    "id": "TOY_037",
+    "dbfId": 102449,
+    "name": "숨겨진 물건",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>비밀</b>을 <b>발견</b>합니다.<br></br>그 비밀의 비용이<br></br>(1)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 그림에는 노움이 99명 있습니다. 모두 찾아보시겠어요?",
+    "spellSchool": "",
+    "portrait": "HS31-156_S.tif:45e54b27beb140f2a617867d8dcd7274",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_037.png"
+  }
+}

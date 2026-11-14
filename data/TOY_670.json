@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_670","dbfId":105112,"name":"깔깔대는 장난감 제작자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>죽음의 메아리:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를 둘 소환합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"\"아하하핳핳핳핳킄킄ㅋ킄ㅋ킄\" -장난감을 만드는 나","spellSchool":"","portrait":"HS31-077_M.tif:afab666ce82f401e830be033b61ff09b","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":69718}],"races":[],"race":"","classes":[],"art":"art/TOY_670.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-077_M.tif:afab666ce82f401e830be033b61ff09b","goldenMaterial":"TOY_670_PremiumCard.mat:90693b82beb19404eabaa8c1b97063ae","goldenAnimation":"TOY_670_PremiumCard.asset:66725243c25a99a42a4b44ed1c0e3edf"}}
+{
+  "2024-03-20": {
+    "id": "TOY_670",
+    "dbfId": 105112,
+    "name": "깔깔대는 장난감 제작자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를 둘 소환합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"아하하핳핳핳핳킄킄ㅋ킄ㅋ킄\" -장난감을 만드는 나",
+    "spellSchool": "",
+    "portrait": "HS31-077_M.tif:afab666ce82f401e830be033b61ff09b",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 69718
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_670.png"
+  }
+}

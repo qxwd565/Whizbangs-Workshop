@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_652","dbfId":104652,"name":"눈요기 손님","type":"MINION","cardClass":"DEMONHUNTER","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>미니미</b>, <b>전투의 함성:</b> 악마를 <b>발견</b>합니다. 그 악마의 능력치와 비용을 이 하수인과 같게 만듭니다.","attack":6,"health":5,"durability":0,"armor":0,"flavor":"소름! 완전 날 빼닮았잖아!","spellSchool":"","portrait":"HS31-142_M.tif:624702ab3c3a469cacf3da5b19513b56","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":104654},{"id":3318,"name":"미니미","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/TOY_652.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-142_M.tif:624702ab3c3a469cacf3da5b19513b56","goldenMaterial":"TOY_652_PremiumCard.mat:8e77dc5afb861a540bba46977640ea40","goldenAnimation":"TOY_652_PremiumCard.asset:dd7f80e3c8e243b4ab2f15fa9b2c4316"}}
+{
+  "2024-03-20": {
+    "id": "TOY_652",
+    "dbfId": 104652,
+    "name": "눈요기 손님",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>미니미</b>, <b>전투의 함성:</b> 악마를 <b>발견</b>합니다. 그 악마의 능력치와 비용을 이 하수인과 같게 만듭니다.",
+    "attack": 6,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "소름! 완전 날 빼닮았잖아!",
+    "spellSchool": "",
+    "portrait": "HS31-142_M.tif:624702ab3c3a469cacf3da5b19513b56",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 104654
+      },
+      {
+        "id": 3318,
+        "name": "미니미",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/TOY_652.png"
+  }
+}

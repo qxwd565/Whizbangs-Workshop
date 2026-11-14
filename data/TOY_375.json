@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_375","dbfId":103348,"name":"진눈깨비 스케이터","type":"MINION","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":5,"text":"<b>미니미</b>, <b>전투의 함성:</b>\n적 하수인을 <b>빙결</b> 상태로 만듭니다. 그 하수인의 공격력만큼 방어도를\n얻습니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"얼음 정령 동료 여러분, 잘 지내시나요?","spellSchool":"","portrait":"HS31-159_M.tif:6d3d12919b954af0a0a45d3d9d26b001","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":208,"name":"빙결","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":103349},{"id":3318,"name":"미니미","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TOY_375.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-159_M.tif:6d3d12919b954af0a0a45d3d9d26b001","goldenMaterial":"TOY_375_PremiumCard.mat:81d7fe12e12bda648959dbf910b5d328","goldenAnimation":"TOY_375_PremiumCard.asset:0f604fec9823bf1408e4798b3e101ce3"}}
+{
+  "2024-03-20": {
+    "id": "TOY_375",
+    "dbfId": 103348,
+    "name": "진눈깨비 스케이터",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>미니미</b>, <b>전투의 함성:</b><br></br>적 하수인을 <b>빙결</b> 상태로 만듭니다. 그 하수인의 공격력만큼 방어도를<br></br>얻습니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "얼음 정령 동료 여러분, 잘 지내시나요?",
+    "spellSchool": "",
+    "portrait": "HS31-159_M.tif:6d3d12919b954af0a0a45d3d9d26b001",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 103349
+      },
+      {
+        "id": 3318,
+        "name": "미니미",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TOY_375.png"
+  }
+}

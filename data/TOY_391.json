@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_391","dbfId":103520,"name":"캐리커처 예술가","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성</b>: 비용이 (5)\n이상인 하수인을 뽑습니다.\n그 하수인에게 우스꽝스러운 콧수염을 달아 줍니다!","attack":3,"health":4,"durability":0,"armor":0,"flavor":"\"푸흡…. 아직 콧수염은 그리지도 않았는데, 얼굴만 봐도 흥겹군요!\"","spellSchool":"","portrait":"HS31-088_M.tif:1040b53f324e435ea0c337292dd68852","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_391.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-088_M.tif:1040b53f324e435ea0c337292dd68852","goldenMaterial":"TOY_391_PremiumCard.mat:fd17f00bb12a12742ac037bc76548887","goldenAnimation":"TOY_391_PremiumCard.asset:e414541e44dcb6d44bf27694044afc66"}}
+{
+  "2024-03-20": {
+    "id": "TOY_391",
+    "dbfId": 103520,
+    "name": "캐리커처 예술가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성</b>: 비용이 (5)<br></br>이상인 하수인을 뽑습니다.<br></br>그 하수인에게 우스꽝스러운 콧수염을 달아 줍니다!",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"푸흡…. 아직 콧수염은 그리지도 않았는데, 얼굴만 봐도 흥겹군요!\"",
+    "spellSchool": "",
+    "portrait": "HS31-088_M.tif:1040b53f324e435ea0c337292dd68852",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_391.png"
+  }
+}

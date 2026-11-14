@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_520","dbfId":103549,"name":"수수께끼 감시자","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 무작위 <b>비밀</b>을\n둘 시전합니다. 내 턴이\n시작될 때, 그 비밀들을 파괴합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"우리만 아는 비밀인데, 아직도 설정을 \"체험\" 모드에서 바꾸지 않았답니다.","spellSchool":"","portrait":"HS31-206_M.tif:33a645ac722342268833141ff036228f","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/TOY_520.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-206_M.tif:33a645ac722342268833141ff036228f","goldenMaterial":"TOY_520_PremiumCard.mat:d4438557a39e85447867921eab986156","goldenAnimation":"TOY_520_PremiumCard.asset:bf8eba316f5ff2a4ea99d8b08cfa0c11"}}
+{
+  "2024-03-20": {
+    "id": "TOY_520",
+    "dbfId": 103549,
+    "name": "수수께끼 감시자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 무작위 <b>비밀</b>을<br></br>둘 시전합니다. 내 턴이<br></br>시작될 때, 그 비밀들을 파괴합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "우리만 아는 비밀인데, 아직도 설정을 \"체험\" 모드에서 바꾸지 않았답니다.",
+    "spellSchool": "",
+    "portrait": "HS31-206_M.tif:33a645ac722342268833141ff036228f",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/TOY_520.png"
+  }
+}

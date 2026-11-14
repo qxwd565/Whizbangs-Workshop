@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_375t","dbfId":103349,"name":"진눈깨비 스케이터","type":"MINION","cardClass":"MAGE","rarity":"RARE","collectible":false,"cost":1,"text":"<b>미니</b>, <b>전투의 함성:</b>\n적 하수인을 <b>빙결</b> 상태로 만듭니다. 그 하수인의 공격력만큼 방어도를\n얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-160_M.tif:1dd0f79dc45c495b8307751461735ece","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":208,"name":"빙결","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":3319,"name":"미니","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TOY_375t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-160_M.tif:1dd0f79dc45c495b8307751461735ece","goldenMaterial":"TOY_375t_PremiumCard.mat:3edca8604f0a33c479548f04cc3861ca","goldenAnimation":"TOY_375t_PremiumCard.asset:9ae5df7ba2b69c642b8fcdd373d21e24"}}
+{
+  "2024-03-20": {
+    "id": "TOY_375t",
+    "dbfId": 103349,
+    "name": "진눈깨비 스케이터",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>미니</b>, <b>전투의 함성:</b><br></br>적 하수인을 <b>빙결</b> 상태로 만듭니다. 그 하수인의 공격력만큼 방어도를<br></br>얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-160_M.tif:1dd0f79dc45c495b8307751461735ece",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 3319,
+        "name": "미니",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TOY_375t.png"
+  }
+}

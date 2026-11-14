@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_107","dbfId":105573,"name":"오작동","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":2,"text":"모든 적 하수인에게 $3의 피해를 나누어 입힙니다. 내 덱에 하수인이 없으면, 피해를 $3 더 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"버그 제보: 이 카드가 멀쩡하게 작동해요.","spellSchool":"ARCANE","portrait":"HS31-316_S.tif:39eca774e9ff43ae96dccde65d747b4a","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":349,"name":"게임 태그 349","value":1},{"id":1635,"name":"주문 속성","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_107.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-316_S.tif:39eca774e9ff43ae96dccde65d747b4a","goldenMaterial":"MIS_107_PremiumCard.mat:084acb2bc013e084f8388542d6486215","goldenAnimation":"MIS_107_PremiumCard.asset:a66b7578cb78e4a4094d7a58ea75e7db"}}
+{
+  "2024-05-15": {
+    "id": "MIS_107",
+    "dbfId": 105573,
+    "name": "오작동",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "모든 적 하수인에게 $3의 피해를 나누어 입힙니다. 내 덱에 하수인이 없으면, 피해를 $3 더 나누어 입힙니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "버그 제보: 이 카드가 멀쩡하게 작동해요.",
+    "spellSchool": "ARCANE",
+    "portrait": "HS31-316_S.tif:39eca774e9ff43ae96dccde65d747b4a",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_107.png"
+  }
+}

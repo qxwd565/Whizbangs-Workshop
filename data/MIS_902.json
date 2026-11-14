@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_902","dbfId":102376,"name":"부품 분쇄기","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":2,"text":"방어도를 최대\n5 잃습니다. 그만큼\n내 다음 기계의\n비용이 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"잘 가! 잘 가! 잘 가!\"","spellSchool":"","portrait":"HS31-336_S.tif:1e2602b309414039b105d628274109ec","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_902.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-336_S.tif:1e2602b309414039b105d628274109ec","goldenMaterial":"MIS_902_PremiumCard.mat:477de1fb8b99daf47940f6b9d46ddd7c","goldenAnimation":"MIS_902_PremiumCard.asset:3440b3cce327f7f4fa29a59ae9e8b8d8"}}
+{
+  "2024-05-15": {
+    "id": "MIS_902",
+    "dbfId": 102376,
+    "name": "부품 분쇄기",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "방어도를 최대<br></br>5 잃습니다. 그만큼<br></br>내 다음 기계의<br></br>비용이 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"잘 가! 잘 가! 잘 가!\"",
+    "spellSchool": "",
+    "portrait": "HS31-336_S.tif:1e2602b309414039b105d628274109ec",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_902.png"
+  }
+}

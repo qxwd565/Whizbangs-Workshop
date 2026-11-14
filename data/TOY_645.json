@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_645","dbfId":104518,"name":"하급 오팔 주문석","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"카드를 1장 뽑습니다.\n<i>(내 영웅이 2회 공격하면\n강화됩니다.)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"영예와 권력을 구하는 자들아 포식자 아자리에게 휘둘리지 말라 오팔은 약자에게 승리를 안겨 주나 영혼을 메마르고 황량하게 만드노라","spellSchool":"","portrait":"HS31-016_S.tif:bb7fca7b5463491f9225796c3e391bb7","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_645.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-016_S.tif:bb7fca7b5463491f9225796c3e391bb7","goldenMaterial":"TOY_645_PremiumCard.mat:47f5055e461f0cb498798ebaa1ce2573","goldenAnimation":"TOY_645_PremiumCard.asset:3b540d1a86b1fd04799a5f9862a67fe0"}}
+{
+  "2024-03-20": {
+    "id": "TOY_645",
+    "dbfId": 104518,
+    "name": "하급 오팔 주문석",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "카드를 1장 뽑습니다.<br></br><i>(내 영웅이 2회 공격하면<br></br>강화됩니다.)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "영예와 권력을 구하는 자들아 포식자 아자리에게 휘둘리지 말라 오팔은 약자에게 승리를 안겨 주나 영혼을 메마르고 황량하게 만드노라",
+    "spellSchool": "",
+    "portrait": "HS31-016_S.tif:bb7fca7b5463491f9225796c3e391bb7",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_645.png"
+  }
+}

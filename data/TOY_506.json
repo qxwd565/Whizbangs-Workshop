@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_506","dbfId":103330,"name":"옛날 옛적에...","type":"SPELL","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":6,"text":"비용이 3인 무작위 야수, 용족, 정령, 멀록을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"...초라하고 조그만 다람쥐가 못된 용을 물리치기 위해 모험을 떠났습니다. 다람쥐는 땅에 사는 친구에게 도움을 받아, 위험에 처한 멀록 공주를 구했습니다. 끝.","spellSchool":"NATURE","portrait":"HS31-181_S.tif:a811a56b4bd442e68bee370b00671bf5","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/TOY_506.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-181_S.tif:a811a56b4bd442e68bee370b00671bf5","goldenMaterial":"TOY_506_PremiumCard.mat:5c31ca888e9c6bc43bdff80824da0e39","goldenAnimation":"TOY_506_PremiumCard.asset:288f93e269bc3e743ad6173d59a8fce3"}}
+{
+  "2024-03-20": {
+    "id": "TOY_506",
+    "dbfId": 103330,
+    "name": "옛날 옛적에...",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "비용이 3인 무작위 야수, 용족, 정령, 멀록을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "...초라하고 조그만 다람쥐가 못된 용을 물리치기 위해 모험을 떠났습니다. 다람쥐는 땅에 사는 친구에게 도움을 받아, 위험에 처한 멀록 공주를 구했습니다. 끝.",
+    "spellSchool": "NATURE",
+    "portrait": "HS31-181_S.tif:a811a56b4bd442e68bee370b00671bf5",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_506.png"
+  }
+}

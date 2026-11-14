@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_829t","dbfId":104638,"name":"저주받은 기사의 머리","type":"SPELL","cardClass":"DEATHKNIGHT","collectible":false,"cost":2,"text":"<b>뽑을 때 시전</b>되어 적이 <i>두려움에 떨지어다!</i> 언데드의 영혼을 네 <i>영웅 능력</i>에 불어넣거라!","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-012_S.tif:8cbd930339704312a0235a89d63f0fdc","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":1077,"name":"뽑을 때 시전","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_829t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-012_S.tif:8cbd930339704312a0235a89d63f0fdc","goldenMaterial":"TOY_829t_PremiumCard.mat:3a2535c31da07914f8dcbd4fe0895c38","goldenAnimation":"TOY_829t_PremiumCard.asset:c0c8a6c8ac9ed5748bacf52f6f8f86d8"}}
+{
+  "2024-03-20": {
+    "id": "TOY_829t",
+    "dbfId": 104638,
+    "name": "저주받은 기사의 머리",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>뽑을 때 시전</b>되어 적이 <i>두려움에 떨지어다!</i> 언데드의 영혼을 네 <i>영웅 능력</i>에 불어넣거라!",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-012_S.tif:8cbd930339704312a0235a89d63f0fdc",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_829t.png"
+  }
+}

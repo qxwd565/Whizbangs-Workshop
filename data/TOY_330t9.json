@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_330t9","dbfId":110444,"name":"2단 합체 질리악스 3000","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":false,"cost":0,"text":"내 덱을 만들 때, 2단 합체 질리악스 3000을 직접 만들어 보세요!","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-113_M.tif:f292077511074f8b9e3265934cec04b7","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":684,"name":"비용 숨김","value":1},{"id":3376,"name":"질리악스 외형 모듈","value":1},{"id":3470,"name":"연결된 질리악스 기능 모듈 ID","value":104947},{"id":3471,"name":"생명력 숫자 숨김","value":1},{"id":3472,"name":"공격력 숫자 숨김","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/TOY_330t9.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-113_M.tif:f292077511074f8b9e3265934cec04b7","goldenMaterial":"TOY_330t9_PremiumCard.mat:494d89c55e0122d45a9f70a13f3ebd9e","goldenAnimation":"TOY_330t9_PremiumCard.asset:7c2531b24a923ee4bab9bcd2efcfe56a"}}
+{
+  "2024-03-20": {
+    "id": "TOY_330t9",
+    "dbfId": 110444,
+    "name": "2단 합체 질리악스 3000",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 0,
+    "text": "내 덱을 만들 때, 2단 합체 질리악스 3000을 직접 만들어 보세요!",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-113_M.tif:f292077511074f8b9e3265934cec04b7",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 3376,
+        "name": "질리악스 외형 모듈",
+        "value": 1
+      },
+      {
+        "id": 3470,
+        "name": "연결된 질리악스 기능 모듈 ID",
+        "value": 104947
+      },
+      {
+        "id": 3471,
+        "name": "생명력 숫자 숨김",
+        "value": 1
+      },
+      {
+        "id": 3472,
+        "name": "공격력 숫자 숨김",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/TOY_330t9.png"
+  }
+}

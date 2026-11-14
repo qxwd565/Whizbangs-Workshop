@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_960","dbfId":106697,"name":"기쁨술사 제페토","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 이번 게임에서 내가 낸 공격력 또는 생명력이 1인 모든 하수인을 복사하여 얻습니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"기쁨술 (명사): 마법을 사용해 타인에게 기쁨을 주는 행위. (참고: 윤리학)","spellSchool":"","portrait":"HS31-129_M.tif:bf25bc37cd414fd097bbfd0988756a4f","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_960.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-129_M.tif:bf25bc37cd414fd097bbfd0988756a4f","goldenMaterial":"TOY_960_PremiumCard.mat:5306a047ba717374995aa1908c787cee","goldenAnimation":"TOY_960_PremiumCard.asset:547f03cec89824d429960f1cd6ac8e47"}}
+{
+  "2024-03-20": {
+    "id": "TOY_960",
+    "dbfId": 106697,
+    "name": "기쁨술사 제페토",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b> 이번 게임에서 내가 낸 공격력 또는 생명력이 1인 모든 하수인을 복사하여 얻습니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "기쁨술 (명사): 마법을 사용해 타인에게 기쁨을 주는 행위. (참고: 윤리학)",
+    "spellSchool": "",
+    "portrait": "HS31-129_M.tif:bf25bc37cd414fd097bbfd0988756a4f",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_960.png"
+  }
+}

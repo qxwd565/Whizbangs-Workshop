@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_372","dbfId":103270,"name":"요그 깜짝 상자","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":7,"text":"무작위 주문을 다섯 시전합니다. 내 덱에 하수인이 없으면, 대신 비용이 (5) 이상인 주문들을 시전합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"깜짝 깜짝 깜짝 요그!","spellSchool":"SHADOW","portrait":"HS31-158_S.tif:ab154497b1004b8fb4e77229e25672cb","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/TOY_372.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-158_S.tif:ab154497b1004b8fb4e77229e25672cb","goldenMaterial":"TOY_372_PremiumCard.mat:9b069f9b63f950d46ac0286b2516ea70","goldenAnimation":"TOY_372_PremiumCard.asset:c3de62184d654224a8100a98b472feb5"}}
+{
+  "2024-03-20": {
+    "id": "TOY_372",
+    "dbfId": 103270,
+    "name": "요그 깜짝 상자",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 7,
+    "text": "무작위 주문을 다섯 시전합니다. 내 덱에 하수인이 없으면, 대신 비용이 (5) 이상인 주문들을 시전합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "깜짝 깜짝 깜짝 요그!",
+    "spellSchool": "SHADOW",
+    "portrait": "HS31-158_S.tif:ab154497b1004b8fb4e77229e25672cb",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_372.png"
+  }
+}

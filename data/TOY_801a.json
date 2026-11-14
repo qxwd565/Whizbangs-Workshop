@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_801a","dbfId":104585,"name":"배양","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":4,"text":"주문을 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-147_S.tif:08dca226de4b40aeb7489928049da86b","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/TOY_801a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-147_S.tif:08dca226de4b40aeb7489928049da86b","goldenMaterial":"TOY_801a_PremiumCard.mat:159ff1ecf296c9b48bdd1d2e7110044a","goldenAnimation":"TOY_801a_PremiumCard.asset:951b674212d1d2f409d25891762f2838"}}
+{
+  "2024-03-20": {
+    "id": "TOY_801a",
+    "dbfId": 104585,
+    "name": "배양",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 4,
+    "text": "주문을 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-147_S.tif:08dca226de4b40aeb7489928049da86b",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_801a.png"
+  }
+}

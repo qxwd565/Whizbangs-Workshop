@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_710","dbfId":105559,"name":"양말 인형 갈퀴창날","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":1,"text":"이 하수인의 공격력이\n내 영웅의 공격력만큼 강화됩니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"여왕 아즈샤라의 오른팔은 여군주 바쉬입니다. 이 하수인은 왼팔입니다.","spellSchool":"","portrait":"HS31-305_M.tif:c9a5d457e99e466c92a519bd59b08e88","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/MIS_710.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-305_M.tif:c9a5d457e99e466c92a519bd59b08e88","goldenMaterial":"MIS_710_PremiumCard.mat:98086f72905bceb49a522e303561d7c9","goldenAnimation":"MIS_710_PremiumCard.asset:929de81918724024ea87960fb0621140"}}
+{
+  "2024-05-15": {
+    "id": "MIS_710",
+    "dbfId": 105559,
+    "name": "양말 인형 갈퀴창날",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "이 하수인의 공격력이<br></br>내 영웅의 공격력만큼 강화됩니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "여왕 아즈샤라의 오른팔은 여군주 바쉬입니다. 이 하수인은 왼팔입니다.",
+    "spellSchool": "",
+    "portrait": "HS31-305_M.tif:c9a5d457e99e466c92a519bd59b08e88",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/MIS_710.png"
+  }
+}

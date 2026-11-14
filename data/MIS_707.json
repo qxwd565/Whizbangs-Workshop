@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_707","dbfId":105539,"name":"대량 생산","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":1,"text":"카드를 2장 뽑습니다.\n내 영웅에게 피해를 $3 줍니다.\n이 주문을 둘 복사하여\n내 덱에 섞어 넣습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"여러분이 이 주문을 시전할 때마다 저희는 새로운 넴지 초상화를 만듭니다.","spellSchool":"","portrait":"HS31-332_S.tif:f271bde54ee947c0a933ff08e920fd50","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MIS_707.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-332_S.tif:f271bde54ee947c0a933ff08e920fd50","goldenMaterial":"MIS_707_PremiumCard.mat:8d1b5c2181184bb48b3adc764f8151e3","goldenAnimation":"MIS_707_PremiumCard.asset:7acbba5d058d2e544a9b8e0044e51516"}}
+{
+  "2024-05-15": {
+    "id": "MIS_707",
+    "dbfId": 105539,
+    "name": "대량 생산",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "카드를 2장 뽑습니다.<br></br>내 영웅에게 피해를 $3 줍니다.<br></br>이 주문을 둘 복사하여<br></br>내 덱에 섞어 넣습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "여러분이 이 주문을 시전할 때마다 저희는 새로운 넴지 초상화를 만듭니다.",
+    "spellSchool": "",
+    "portrait": "HS31-332_S.tif:f271bde54ee947c0a933ff08e920fd50",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MIS_707.png"
+  }
+}

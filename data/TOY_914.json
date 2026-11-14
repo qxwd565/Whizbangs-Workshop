@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_914","dbfId":104854,"name":"흉측한 여왕","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":8,"text":"<b>도발</b>, <b>죽음의 메아리:</b>\n<b>도발</b> 능력이 있는\n4/6 나이트를\n둘 소환합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"주위에 있을 때는 머리를 조심하세요.","spellSchool":"","portrait":"HS31-188_M.tif:32254a53be1b4b149d490422a5613fe3","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":8},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":106281},{"id":1965,"name":"임프","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/TOY_914.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-188_M.tif:32254a53be1b4b149d490422a5613fe3","goldenMaterial":"TOY_914_PremiumCard.mat:0db1c2f53a2ca5f4f9f17a487fb3e5ea","goldenAnimation":"TOY_914_PremiumCard.asset:4d89cb17feb8806448c57206ff297d42"}}
+{
+  "2024-03-20": {
+    "id": "TOY_914",
+    "dbfId": 104854,
+    "name": "흉측한 여왕",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br><b>도발</b> 능력이 있는<br></br>4/6 나이트를<br></br>둘 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "주위에 있을 때는 머리를 조심하세요.",
+    "spellSchool": "",
+    "portrait": "HS31-188_M.tif:32254a53be1b4b149d490422a5613fe3",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 106281
+      },
+      {
+        "id": 1965,
+        "name": "임프",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/TOY_914.png"
+  }
+}

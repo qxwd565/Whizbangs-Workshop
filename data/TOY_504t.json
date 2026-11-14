@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_504t","dbfId":103125,"name":"동화 수액괴물","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":1,"text":"<b>전투의 함성:</b> 다른 카드를 시전합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-186_M.tif:46294b59d21b4eafaadaf7090b1b1131","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_504t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-186_M.tif:46294b59d21b4eafaadaf7090b1b1131","goldenMaterial":"TOY_504t_PremiumCard.mat:63a4d0bd00db3d24195138b6009f3bce","goldenAnimation":"TOY_504t_PremiumCard.asset:93fb4920356a5824fb739d631f9ec434"}}
+{
+  "2024-03-20": {
+    "id": "TOY_504t",
+    "dbfId": 103125,
+    "name": "동화 수액괴물",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 다른 카드를 시전합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-186_M.tif:46294b59d21b4eafaadaf7090b1b1131",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_504t.png"
+  }
+}

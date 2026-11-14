@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_914t","dbfId":106281,"name":"비열한 나이트","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":5,"text":"<b>도발</b>","attack":4,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-189_M.tif:7801b9549990422389530a95cc6d5ce1","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/TOY_914t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-189_M.tif:7801b9549990422389530a95cc6d5ce1","goldenMaterial":"TOY_914t_PremiumCard.mat:e00d26843ba8d464599b49ef0d74335b","goldenAnimation":"TOY_914t_PremiumCard.asset:5a00130c4398eed438d6903ba1def51d"}}
+{
+  "2024-03-20": {
+    "id": "TOY_914t",
+    "dbfId": 106281,
+    "name": "비열한 나이트",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>도발</b>",
+    "attack": 4,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-189_M.tif:7801b9549990422389530a95cc6d5ce1",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/TOY_914t.png"
+  }
+}

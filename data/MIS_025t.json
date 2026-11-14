@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MIS_025t","dbfId":108628,"name":"복제기기","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>미니</b>, 이 하수인과 공격력이 같은 하수인을 낸 후에,\n그 하수인을 복사하여 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-344_M.tif:4e08495c285040f3b943236a748ac938","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":1824,"name":"미니 세트","value":1},{"id":3319,"name":"미니","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/MIS_025t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-344_M.tif:4e08495c285040f3b943236a748ac938","goldenMaterial":"MIS_025t_PremiumCard.mat:88ef6609c773e62438df648802474f30","goldenAnimation":"MIS_025t_PremiumCard.asset:480b87a0f30d9da42a7156b2f50d4073"}}
+{
+  "2024-05-15": {
+    "id": "MIS_025t",
+    "dbfId": 108628,
+    "name": "복제기기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>미니</b>, 이 하수인과 공격력이 같은 하수인을 낸 후에,<br></br>그 하수인을 복사하여 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-344_M.tif:4e08495c285040f3b943236a748ac938",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3319,
+        "name": "미니",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/MIS_025t.png"
+  }
+}

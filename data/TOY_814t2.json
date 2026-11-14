@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_814t2","dbfId":105465,"name":"장난감 병사","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"<b>도발</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-092_M.tif:f9c1cfa6b768421f84e2c3ef3cd4fdff","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/TOY_814t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-092_M.tif:f9c1cfa6b768421f84e2c3ef3cd4fdff","goldenMaterial":"TOY_814t2_PremiumCard.mat:501924e68810f2f49a0d5e1f71f9a2cc","goldenAnimation":"TOY_814t2_PremiumCard.asset:275b39818d0f4a748af396422d476559"}}
+{
+  "2024-03-20": {
+    "id": "TOY_814t2",
+    "dbfId": 105465,
+    "name": "장난감 병사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>도발</b>",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-092_M.tif:f9c1cfa6b768421f84e2c3ef3cd4fdff",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/TOY_814t2.png"
+  }
+}

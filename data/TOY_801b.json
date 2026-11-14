@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_801b","dbfId":104586,"name":"묘목 성장","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":4,"text":"<b>주문 공격력 +1</b>을 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-146_S.tif:d75f14fff59841d5ad549971353a09e2","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/TOY_801b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-146_S.tif:d75f14fff59841d5ad549971353a09e2","goldenMaterial":"TOY_801b_PremiumCard.mat:b1d55ea3b8668d34baf22b0cabf8e27f","goldenAnimation":"TOY_801b_PremiumCard.asset:02cb6eba5bb69234b9dc270f7ba8f9ec"}}
+{
+  "2024-03-20": {
+    "id": "TOY_801b",
+    "dbfId": 104586,
+    "name": "묘목 성장",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>주문 공격력 +1</b>을 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-146_S.tif:d75f14fff59841d5ad549971353a09e2",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_801b.png"
+  }
+}

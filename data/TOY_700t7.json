@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_700t7","dbfId":106249,"name":"발견의 덱","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":0,"text":"덱에 드루이드 주문과\n하수인을 <b>발견</b>하는 카드가\n가득 들어 있습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"BG27-039_S.tif:7f2387f5f7174880a1eb187e460b0121","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_700t7.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"BG27-039_S.tif:7f2387f5f7174880a1eb187e460b0121","goldenMaterial":"TOY_700t7_PremiumCard.mat:c50dd4d7bf0fece4d8f8c3d135d3c269","goldenAnimation":"TOY_700t7_PremiumCard.asset:4716fd5cb382d124c9d60c6840d696f0"}}
+{
+  "2024-03-20": {
+    "id": "TOY_700t7",
+    "dbfId": 106249,
+    "name": "발견의 덱",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 0,
+    "text": "덱에 드루이드 주문과<br></br>하수인을 <b>발견</b>하는 카드가<br></br>가득 들어 있습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "BG27-039_S.tif:7f2387f5f7174880a1eb187e460b0121",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_700t7.png"
+  }
+}

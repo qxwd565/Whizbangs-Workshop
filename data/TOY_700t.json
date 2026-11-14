@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TOY_700t","dbfId":105092,"name":"발견의 순간","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":0,"text":"비용을 낼 수 있는 드루이드 주문 또는 드루이드 하수인 또는\n중립 하수인을 <b>발견</b>합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS31-218_S.tif:ca9418ce0b3e4b849f43452356b2374b","set":"WHIZBANGS_WORKSHOP","nativeTags":[{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TOY_700t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS31-218_S.tif:ca9418ce0b3e4b849f43452356b2374b","goldenMaterial":"TOY_700t_PremiumCard.mat:9d4af191d1fc00142b13f873451abb9e","goldenAnimation":"TOY_700t_PremiumCard.asset:e42718519fc10ac4da434e73eb17bc6a"}}
+{
+  "2024-03-20": {
+    "id": "TOY_700t",
+    "dbfId": 105092,
+    "name": "발견의 순간",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 0,
+    "text": "비용을 낼 수 있는 드루이드 주문 또는 드루이드 하수인 또는<br></br>중립 하수인을 <b>발견</b>합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS31-218_S.tif:ca9418ce0b3e4b849f43452356b2374b",
+    "set": "WHIZBANGS_WORKSHOP",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TOY_700t.png"
+  }
+}
